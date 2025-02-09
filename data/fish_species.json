@@ -1,0 +1,1928 @@
+{
+    "LKW": {
+        "code": "LKW",
+        "common_name": "lake whitefish",
+        "scientific_name": "Coregonus clupeaformis",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lake_whitefish1.jpg/220px-Lake_whitefish1.jpg",
+        "description": "The lake whitefish (Coregonus clupeaformis) is a species of freshwater whitefish from North America. Lake whitefish are found throughout much of Canada and parts of the northern United States, including all of the Great Lakes. The lake whitefish is sometimes referred to as a \"humpback\" fish due to the small size of the head in relation to the length of the body.[3][a] It is a valuable commercial fish, and also occasionally taken by sport fishermen. Smoked, refrigerated, vacuum-packed lake whitefish fillets are available in North American grocery stores. Other vernacular names used for this fish include Otsego bass, Sault whitefish, gizzard fish, common whitefish, eastern whitefish, Great Lakes whitefish, humpback whitefish, inland whitefish and whitefish.[4]"
+    },
+    "RKB": {
+        "code": "RKB",
+        "common_name": "rock bass",
+        "scientific_name": "Ambloplites rupestris",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Rock_Bass.jpg/220px-Rock_Bass.jpg",
+        "description": "The rock bass (Ambloplites rupestris), also known as the rock perch, goggle-eye, red eye, and black perch, is a freshwater fish native to east-central North America. This red-eyed fish is a species of freshwater fish in the sunfish family (Centrarchidae) of order Centrarchiformes and can be distinguished from other similar species by the six spines in the anal fin (other sunfish have only three anal fin spines).[4]"
+    },
+    "LKS": {
+        "code": "LKS",
+        "common_name": "lake sturgeon",
+        "scientific_name": "Acipenser fulvescens",
+        "game_fish": true,
+        "species_group": "Acipenseridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Acipenser_fulvescens.jpg/220px-Acipenser_fulvescens.jpg",
+        "description": "The lake sturgeon (Acipenser fulvescens), also known as the rock sturgeon,[7] is a North American temperate freshwater fish, one of about 25 species of sturgeon. Like other sturgeons, this species is a bottom feeder and has a partly cartilaginous skeleton, an overall streamlined shape, and skin bearing rows of bony plates on the sides and back."
+    },
+    "SDS": {
+        "code": "SDS",
+        "common_name": "sand shiner",
+        "scientific_name": "Notropis stramineus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Notropis_stramineus.jpg/220px-Notropis_stramineus.jpg",
+        "description": "The sand shiner (Notropis stramineus) is a widespread North American species of freshwater fish in the family Cyprinidae.[2] Sand shiners live in open clear water streams with sandy bottoms where they feed in schools on aquatic and terrestrial insects, bottom ooze and diatoms.[3]"
+    },
+    "FLG": {
+        "code": "FLG",
+        "common_name": "Florida gar",
+        "scientific_name": "Lepisosteus platyrhincus",
+        "game_fish": false,
+        "species_group": "Lepisosteidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lepisosteus_platyrhincus.JPG/220px-Lepisosteus_platyrhincus.JPG",
+        "description": "The Florida gar (Lepisosteus platyrhincus) is a species of gar found in the US from the Savannah River and Ochlockonee River watersheds of Georgia and throughout peninsular Florida. Florida gar can reach a length over 3\u00a0ft (91\u00a0cm). The young feed on zooplankton and insect larvae, as well as small fish. Adults mainly eat fish, shrimp, and crayfish. Although edible, they are not popular as food. The roe is highly toxic to many animals, including humans and birds."
+    },
+    "BLT": {
+        "code": "BLT",
+        "common_name": "bloater",
+        "scientific_name": "Coregonus hoyi",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "BLS": {
+        "code": "BLS",
+        "common_name": "blue sucker",
+        "scientific_name": "Cycleptus elongatus",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Blue_Sucker.jpg/220px-Blue_Sucker.jpg",
+        "description": "The blue sucker (Cycleptus elongatus) is a long-lived freshwater species of fish in the sucker family that is of conservation concern.[3] The species has an average weight of 2\u20133 kilograms (4.4\u20136.6\u00a0lb) and an average length of 76 centimetres (30\u00a0in). The record length has been recorded at 84 centimetres (33\u00a0in),[4] and individuals have been documented beyond 40 years of age.[3]"
+    },
+    "FLC": {
+        "code": "FLC",
+        "common_name": "flathead chub",
+        "scientific_name": "Platygobio gracilis",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_fishes_of_North_and_Middle_America_%28Pl._LIV%29_%287983322799%29.jpg/220px-The_fishes_of_North_and_Middle_America_%28Pl._LIV%29_%287983322799%29.jpg",
+        "description": "The flathead chub (Platygobio gracilis) is a species of fish in the carp family, Cyprinidae. It is the only member of the monotypic genus Platygobio.[2] It is native to North America, where it is distributed throughout central Canada and the central United States.[3]"
+    },
+    "SDM": {
+        "code": "SDM",
+        "common_name": "slender madtom",
+        "scientific_name": "Noturus exilis",
+        "game_fish": false,
+        "species_group": "Ictaluridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Noturus_exilis_%28Slender_Madtom%29_%284658887994%29.jpg/220px-Noturus_exilis_%28Slender_Madtom%29_%284658887994%29.jpg",
+        "description": "Noturus exilis, also called the slender madtom, is a species of the catfish family Ictaluridae. Ictaluridae includes bullheads, madtoms, channel catfish, and blue catfish. Noturus exilis is found in the central portion of the Mississippi River basin, but is most abundant in Ozarkian streams.[2] Slender madtoms occur west of the Mississippi River in the Ozarks of Oklahoma, Arkansas, and Missouri north to southern Wisconsin and Minnesota. It also occurs east of the Mississippi River in the uplands of Alabama, Tennessee, and Kentucky in the Tennessee, Cumberland, and Green drainages.[3] Edward Nelson first described Noturus exilis in 1876. The slender madtom is moderately large with a terminal to sub-terminal mouth, flat head, small eyes, and black marginal bands on the median fins. Most slender madtoms are less than 90 millimetres (3.5\u00a0in).[4] Noturus flavus and Noturus nocturnus are rather similar in shape and coloration to Norturus exilis.[2] Slender madtoms inhabit small to medium-sized streams, in riffle and flowing pool habitats with coarse gravel to slab rock substrates. The presence of a shelter object, such as a large rock, seems to be important in habitat selection.[2][4]"
+    },
+    "GRC": {
+        "code": "GRC",
+        "common_name": "gravel chub",
+        "scientific_name": "Erimystax x-punctatus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gravel_Chub1_Scioto_River_28JUL09_by_BZ.jpg/220px-Gravel_Chub1_Scioto_River_28JUL09_by_BZ.jpg",
+        "description": "The gravel chub, also known as the spotted chub (Erimystax x-punctatus), is a freshwater minnow from the family Cyprinidae. This species of fish has a spotted distribution inhabiting various small rivers and streams in North America. The gravel chub requires a highly specific clean habitat making it vulnerable to various types of pollutants and in need of conservation efforts."
+    },
+    "CRP": {
+        "code": "CRP",
+        "common_name": "crappie",
+        "scientific_name": "Pomoxis sp.",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Black_crappie_and_white_crappie_fish.jpg/220px-Black_crappie_and_white_crappie_fish.jpg",
+        "description": "Hyperistius Gill, 1864:"
+    },
+    "SPT": {
+        "code": "SPT",
+        "common_name": "splake",
+        "scientific_name": "Salvelinus fontinalis X S. namaycush",
+        "game_fish": true,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr.svg/15px-OOjs_UI_icon_edit-ltr.svg.png",
+        "description": "The splake or slake (Salvelinus namaycush \u00d7 Salvelinus fontinalis) is a hybrid of two fish species resulting from the crossing of a male brook trout (Salvelinus fontinalis) and a female lake trout (Salvelinus namaycush). The name itself is a portmanteau of speckled trout (another name for brook trout) and lake trout, and may have been used to describe such hybrids as early as the 1880s.[1] Hybrids of the male lake trout with the female brook trout (the so-called \"brookinaw\") have also been produced, but are not as successful.[2]"
+    },
+    "SPS": {
+        "code": "SPS",
+        "common_name": "spotted sucker",
+        "scientific_name": "Minytrema melanops",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/FMIB_51348_Spotted_Sucker_Minytrema_melanops.jpeg/220px-FMIB_51348_Spotted_Sucker_Minytrema_melanops.jpeg",
+        "description": "The spotted sucker (Minytrema melanops) is a species of sucker (fish) that is native to eastern North America. The spotted sucker inhabits deep pools of small to medium rivers over clay, sand or gravel. They are occasionally found in creeks and large rivers. Through its life stages, the spotted sucker goes from a mid-depth predator to a bottom forager. Spotted suckers have a lifespan of approximately six years and spawn in April and May. Limited knowledge of the occurrence, abundance, and natural history of this species has been an impediment to status assessment and the determination of need for conservation measures within this family.[2]"
+    },
+    "BLH": {
+        "code": "BLH",
+        "common_name": "bullheads",
+        "scientific_name": "Ameiurus sp.",
+        "game_fish": false,
+        "species_group": "Ictaluridae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "SPO": {
+        "code": "SPO",
+        "common_name": "spottail shiner",
+        "scientific_name": "Notropis hudsonius",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Notropis_hudsonius.jpg/220px-Notropis_hudsonius.jpg",
+        "description": "The spottail shiner or spottail minnow (Notropis hudsonius) is a small- to medium-sized freshwater minnow. It can be found as far north as Canada and as far south as the Chattahoochee River in Georgia. These shiners live in lakes, rivers, and creeks. They occupy the rocky or sandy shorelines and bottoms of the water. One of the defining features of a spottail shiner is the black spot found at the base of the caudal fin. These shiners generally spawn from late June through July."
+    },
+    "BLG": {
+        "code": "BLG",
+        "common_name": "bluegill",
+        "scientific_name": "Lepomis macrochirus",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bluegill_%28cropped%29.jpg/220px-Bluegill_%28cropped%29.jpg",
+        "description": "Lepomis purpurescens Cope, 1870"
+    },
+    "LKC": {
+        "code": "LKC",
+        "common_name": "lake chub",
+        "scientific_name": "Couesius plumbeus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Couesius_plumbeus_-_01.jpg/220px-Couesius_plumbeus_-_01.jpg",
+        "description": "The lake chub (Couesius plumbeus) is a freshwater cyprinid fish found in Canada and in parts of the United States. Of all North American minnows, it is the one with the northernmost distribution. Its genus, Couesius is considered monotypic today. The genus was named after Elliott Coues, who collected the holotype specimen."
+    },
+    "BLD": {
+        "code": "BLD",
+        "common_name": "bluntnose darter",
+        "scientific_name": "Etheostoma chlorosoma",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/FMIB_40123_Etheostoma_chlorosoma_Hay_Illinois_River.jpeg/220px-FMIB_40123_Etheostoma_chlorosoma_Hay_Illinois_River.jpeg",
+        "description": "The bluntnose darter (Etheostoma chlorosomum) is a species of freshwater ray-finned fish, a darter from the subfamily Etheostomatinae, part of the family Percidae, which also contains the perches, ruffes and pikeperches.[2] It is found in eastern North America where it is found in slower moving and still waters."
+    },
+    "BLC": {
+        "code": "BLC",
+        "common_name": "black crappie",
+        "scientific_name": "Pomoxis nigromaculatus",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pomoxis_nigromaculatus1.jpg/220px-Pomoxis_nigromaculatus1.jpg",
+        "description": "The black crappie (Pomoxis nigromaculatus) is a freshwater fish in the sunfish family (Centrarchidae). It is endemic to North America, one of the two types of crappies. It is very similar to the white crappie (P. annularis) in size, shape, and habits, except that it is darker, with a pattern of black spots. Alternate names for the species include calico bass, speck, speckled perch, speckled bass, moonfish, grass bass, strawberry bass, shiner, crawpie, oswego bass, sac-a-lait, and marigane noire.[4][5]"
+    },
+    "RVS": {
+        "code": "RVS",
+        "common_name": "river shiner",
+        "scientific_name": "Notropis blennius",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png",
+        "description": "The river shiner (Notropis blennius) is a species of ray-finned fish in the genus Notropis. It is found in the United States and Canada, where it inhabits the Hudson Bay basin from Alberta to Manitoba, south through the Red Red River in Minnesota and North Dakota; and the Mississippi River basin from Wisconsin and Minnesota to Texas, Louisiana, and Mississippi, west to eastern Colorado, and east to West Virginia."
+    },
+    "BLB": {
+        "code": "BLB",
+        "common_name": "black bullhead",
+        "scientific_name": "Ameiurus melas",
+        "game_fish": false,
+        "species_group": "Ictaluridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Ameiurus_melas_2021_G1.jpg/220px-Ameiurus_melas_2021_G1.jpg",
+        "description": "The black bullhead or black bullhead catfish (Ameiurus melas) is a species of bullhead catfish. Like other bullhead catfish, it has the ability to thrive in waters that are low in oxygen, brackish, turbid, and/or very warm.[2] It also has barbels located near its mouth, a broad head, spiny fins, and no scales. It can be identified from other bullheads as the barbels are black, and it has a tan crescent around the tail. Its caudal fin is truncated (squared off at the corners).[3] Like virtually all catfish, it is nocturnal, preferring to feed at night, although young feed during the day. It generally does not get as large as the channel or blue catfish, with average adult weights are in the 1-to-2-pound (0.45 to 0.91\u00a0kg) range, and almost never as large as 4 pounds (1.8\u00a0kg). It has a typical length of 6\u201314 inches (15\u201336\u00a0cm), with the largest specimen being 24 inches (61\u00a0cm), making it the largest of the bullheads.[citation needed] It is typically black or dark brown on the dorsal side of its body and yellow or white on the ventral side.[3]"
+    },
+    "CRD": {
+        "code": "CRD",
+        "common_name": "crystal darter",
+        "scientific_name": "Crystallaria asprella",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/FMIB_51989_Crystal_Darter%2C_Crystallaria_asprella_%28Jordan%29_Wabash_River.jpeg/220px-FMIB_51989_Crystal_Darter%2C_Crystallaria_asprella_%28Jordan%29_Wabash_River.jpeg",
+        "description": "The crystal darter (Crystallaria asprella) is a species of freshwater ray-finned fish, a darter from the subfamily Etheostomatinae, part of the family Percidae, which also contains the perches, ruffes and pikeperches. This small North American fish is found in small, moderate, and swift rivers in the drainage basins of the Mississippi and Ohio Rivers.[2] It is now extirpated from a majority of its range along the Ohio River."
+    },
+    "CRC": {
+        "code": "CRC",
+        "common_name": "creek chub",
+        "scientific_name": "Semotilus atromaculatus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Fallfish.jpg/220px-Fallfish.jpg",
+        "description": "Semotilus is the genus of creek chubs, ray-finned fish in the family Cyprinidae. The term \"creek chub\" is sometimes used for individual species, particularly the common creek chub, S. atromaculatus. The creek chub species of minnows can grow from 6 to 10 inches (15 to 25\u00a0cm). They can be found in the United States and Canada in any small stream or creek. They hide under small rocks for protection. They have a small black spot on the dorsal fin for easy identification."
+    },
+    "SPG": {
+        "code": "SPG",
+        "common_name": "spotted gar",
+        "scientific_name": "Lepisosteus oculatus",
+        "game_fish": false,
+        "species_group": "Lepisosteidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lepisosteus_oculatus1.jpg/220px-Lepisosteus_oculatus1.jpg",
+        "description": "The spotted gar (Lepisosteus oculatus) is a freshwater fish native to North America that has an abundance of dark spots on its head, fins, and dart-like body. Spotted gar have an elongated mouth with many needle-like teeth to catch other fish and crustaceans. It is one of the smallest of the seven species of gar found in North America, growing 2\u20133\u00a0ft (0.61\u20130.91 m) in length and weighing 4\u20136\u00a0lb (1.8\u20132.7\u00a0kg) typically. Gars have diamond-shaped, thick, enamel (ganoid) scales. The name Lepisosteus is Greek for \"bony scale\"."
+    },
+    "ARG": {
+        "code": "ARG",
+        "common_name": "Arctic grayling",
+        "scientific_name": "Thymallus arcticus",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Underwater_Arctic_Grayling.jpg/220px-Underwater_Arctic_Grayling.jpg",
+        "description": "The Arctic grayling (Thymallus arcticus) is a species of freshwater fish in the salmon family Salmonidae. T. arcticus is widespread throughout the Arctic and Pacific drainages in Canada, Alaska, and Siberia, as well as the upper Missouri River drainage in Montana. In the U.S. state of Arizona, an introduced population is found in the Lee Valley and other lakes in the White Mountains. They were also stocked at Toppings Lake by the Teton Range and in lakes in the high Uinta Mountains in Utah, as well as alpine lakes of the Boulder Mountains (Idaho) in central Idaho."
+    },
+    "SPC": {
+        "code": "SPC",
+        "common_name": "speckled chub",
+        "scientific_name": "Macrhybopsis aestivalis",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/FMIB_34349_Hybopsis_aestivalis_marconis_J_and_G.jpeg/220px-FMIB_34349_Hybopsis_aestivalis_marconis_J_and_G.jpeg",
+        "description": "The speckled chub (Macrhybopsis aestivalis) is a species of freshwater fish in the family Cyprinidae of the order Cypriniformes, which also includes carps, suckers, and loaches.[3]"
+    },
+    "ARC": {
+        "code": "ARC",
+        "common_name": "Arctic char",
+        "scientific_name": "Salvelinus alpinus",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/R%C3%B6ding%2C_Iduns_kokbok.jpg/220px-R%C3%B6ding%2C_Iduns_kokbok.jpg",
+        "description": "The Arctic char or Arctic charr (Salvelinus alpinus) is a cold-water fish in the family Salmonidae, native to alpine lakes, as well as Arctic and subarctic coastal waters in the Holarctic."
+    },
+    "SCU": {
+        "code": "SCU",
+        "common_name": "sculpin",
+        "scientific_name": "Cottus sp.",
+        "game_fish": false,
+        "species_group": "Cottidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Longhorn_sculpin.jpg/220px-Longhorn_sculpin.jpg",
+        "description": "A sculpin is a type of fish that belongs to the superfamily Cottoidea in the order Perciformes.[2] As of 2006, this superfamily contains 7 families, 94 genera, and 387 species.[3]"
+    },
+    "SCT": {
+        "code": "SCT",
+        "common_name": "siscowet",
+        "scientific_name": "Salvelinus namaycush siscowet",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lake_trout_fishes_salvelinus_namaycush.jpg/220px-Lake_trout_fishes_salvelinus_namaycush.jpg",
+        "description": "The lake trout (Salvelinus namaycush)[2] is a freshwater char living mainly in lakes in northern North America. Other names for it include mackinaw, namaycush, lake char (or charr), touladi, togue, laker, and grey trout. In Lake Superior, it can also be variously known as siscowet, paperbelly and lean. The lake trout is prized both as a game fish and as a food fish. Those caught with dark coloration may be called mud hens.[3][better\u00a0source\u00a0needed]"
+    },
+    "TIT": {
+        "code": "TIT",
+        "common_name": "tiger trout",
+        "scientific_name": "Salmo trutta X Salvelinus fontinalis",
+        "game_fish": true,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TigerTrout3.jpg/220px-TigerTrout3.jpg",
+        "description": "The tiger trout (Salmo trutta \u00d7 Salvelinus fontinalis) is a sterile, intergeneric hybrid of the brown trout (Salmo trutta) and the brook trout (Salvelinus fontinalis). Pronounced vermiculations in the fish's patterning gave rise to its name, evoking the stripes of a tiger. Tiger trout are a rare anomaly in the wild, as the parent species are relatively unrelated, being members of different genera and possessing mismatched numbers of chromosomes.[1][2][3] However, specialized hatchery rearing techniques are able to produce tiger trout reliably enough to meet the demands of stocking programs.[4][5]"
+    },
+    "BKT": {
+        "code": "BKT",
+        "common_name": "brook trout",
+        "scientific_name": "Salvelinus fontinalis",
+        "game_fish": true,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Brook_trout_in_water.jpg/220px-Brook_trout_in_water.jpg",
+        "description": "\u2020S. f. agassizii (Garman, 1885)\nS. f. timagamiensis Henn & Rinckenbach, 1925"
+    },
+    "BKS": {
+        "code": "BKS",
+        "common_name": "brook silverside",
+        "scientific_name": "Labidesthes sicculus",
+        "game_fish": false,
+        "species_group": "Atherinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Labidesthes_sicculus.jpg/220px-Labidesthes_sicculus.jpg",
+        "description": "Chirostoma sicculum Cope, 1865"
+    },
+    "RVD": {
+        "code": "RVD",
+        "common_name": "river darter",
+        "scientific_name": "Percina shumardi",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png",
+        "description": "Hadropterus shumardi Girard, 1859"
+    },
+    "MDD": {
+        "code": "MDD",
+        "common_name": "mud darter",
+        "scientific_name": "Etheostoma asprigene",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mud_darterTXF.jpg/220px-Mud_darterTXF.jpg",
+        "description": "The mud darter (Etheostoma asprigene) is a species of freshwater ray-finned fish, a darter from the subfamily Etheostomatinae, part of the family Percidae, which also contains the perches, ruffes and pikeperches.[2][3] It is endemic to the lowlands of the Mississippi River basin from Wisconsin and Minnesota south to Louisiana and East Texas. It is also found in the drainages of the Sabine and Neches Rivers of Texas and Louisiana. It can be found in slow-moving waters on riffles in rivers, as well as in creeks, swamps, lakes, and reservoirs. It mostly consumes the larvae of midges and blackflies. This species can reach a length of 7.1\u00a0cm (2.8\u00a0in), though most only reach a length of 5\u00a0cm (2.0\u00a0in)."
+    },
+    "DWS": {
+        "code": "DWS",
+        "common_name": "deepwater sculpin",
+        "scientific_name": "Myoxocephalus thompsonii",
+        "game_fish": false,
+        "species_group": "Cottidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/%22Myoxocephalus_thomsonii%22_%22deepwater_sculpin%22.JPG/220px-%22Myoxocephalus_thomsonii%22_%22deepwater_sculpin%22.JPG",
+        "description": "The deepwater sculpin (Myoxocephalus thompsonii) is a species of freshwater fish in the family Cottidae of order Scorpaeniformes.[2][1] It is a glacial relict, native to a limited number of deep, cold lakes in Canada and the United States.[1][3][4]"
+    },
+    "TIL": {
+        "code": "TIL",
+        "common_name": "blue tilapia",
+        "scientific_name": "Oreochromis aureus",
+        "game_fish": false,
+        "species_group": "Cichlidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Blue_Tilapia_%28cropped%29.jpg/220px-Blue_Tilapia_%28cropped%29.jpg",
+        "description": "The blue tilapia (Oreochromis aureus) is a species of tilapia, a fish in the family Cichlidae.[2] Native to Northern and Western Africa, and the Middle East, through introductions it is now also established elsewhere, including parts of the United States, where it has been declared an invasive species and has caused significant environmental damage.[3] It is known as the blue kurper in South Africa.[4]"
+    },
+    "RIR": {
+        "code": "RIR",
+        "common_name": "river ruffe",
+        "scientific_name": "Gymnocephalus cernuus",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "BKF": {
+        "code": "BKF",
+        "common_name": "banded killifish",
+        "scientific_name": "Fundulus diaphanus",
+        "game_fish": false,
+        "species_group": "Fundulidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fundulus_diaphanus_RR_08-11-19_0560_%2848532888296%29.jpg/220px-Fundulus_diaphanus_RR_08-11-19_0560_%2848532888296%29.jpg",
+        "description": "The banded killifish (Fundulus diaphanus) is a North American species of temperate freshwater killifish belonging to the genus Fundulus of the family Fundulidae. Its natural geographic range extends from Newfoundland to South Carolina, and west to Minnesota, including the Great Lakes drainages.[3] This species is the only freshwater killifish found in the northeastern United States. While it is primarily a freshwater species, it can occasionally be found in brackish water.[4]"
+    },
+    "PIR": {
+        "code": "PIR",
+        "common_name": "red breasted pirahna",
+        "scientific_name": "Piaractus brachypomus",
+        "game_fish": false,
+        "species_group": "Characidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "BKB": {
+        "code": "BKB",
+        "common_name": "black buffalo",
+        "scientific_name": "Ictiobus niger",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ictiobus_niger.jpg/220px-Ictiobus_niger.jpg",
+        "description": "The black buffalo (Ictiobus niger) is a North American species of freshwater fish in the Catostomidae or sucker family.[2] With a lifespan of up to 108 years, it is among the longest-lived of freshwater fish species.[3] Found in the Mississippi Basin and southern Great Lakes. It was first discovered in Canada in the western end of Lake Erie and has been reported from Boston Creek. The Tennessee distribution ranges from rivers and streams in the Cumberland Mountains, a few rivers in middle Tennessee, and in west Tennessee along the Mississippi River.[4] The ecology of the species is quite similar to that of I. bubalus. I. niger has a ventrally positioned mouth, making the species\u2019 diet benthic-oriented.[4] It has a distinct shape that mocks I. bubalus and I. cyprinellus, considering it a hybrid between the two species.[4]"
+    },
+    "MCP": {
+        "code": "MCP",
+        "common_name": "mirror carp",
+        "scientific_name": "Cyprinus carpio - variation",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cyprinus_carpio_2008_G1_%28cropped%29.jpg/220px-Cyprinus_carpio_2008_G1_%28cropped%29.jpg",
+        "description": "The common carp (Cyprinus carpio), also known as European carp or Eurasian carp, is a widespread freshwater fish of eutrophic waters in lakes and large rivers in Europe and Asia.[2][3] The native wild populations are considered vulnerable to extinction by the International Union for Conservation of Nature (IUCN),[1] but the species has also been domesticated and introduced (see aquaculture) into environments worldwide, and is often considered a destructive invasive species,[2] being included in the list of the world's 100 worst invasive species. It gives its name to the carp family, Cyprinidae."
+    },
+    "CPS": {
+        "code": "CPS",
+        "common_name": "carpsucker",
+        "scientific_name": "Carpiodes sp.",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/River_carpsucker_fish_carpoides_carpio_%282%29.jpg/220px-River_carpsucker_fish_carpoides_carpio_%282%29.jpg",
+        "description": "Carpiodes is a genus of suckers found in freshwater in North America.[1]"
+    },
+    "SBL": {
+        "code": "SBL",
+        "common_name": "southern brook lamprey",
+        "scientific_name": "Ichthyomyzon gagei",
+        "game_fish": false,
+        "species_group": "Petromyzontidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png",
+        "description": "The southern brook lamprey (Ichthyomyzon gagei) is a lamprey found in the Southern United States including Arkansas, Louisiana, Mississippi, Alabama, and Georgia. It is a jawless fish with a sucking mouth on one end of it (like a leech). It can appear to be a small eel, since it is rarely longer than one foot in length."
+    },
+    "QBS": {
+        "code": "QBS",
+        "common_name": "quillback",
+        "scientific_name": "Carpiodes cyprinus",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Quillback_on_grass.jpg/220px-Quillback_on_grass.jpg",
+        "description": "The quillback (Carpiodes cyprinus), also known as the quillback sucker, is a type of freshwater fish of the sucker family widely distributed throughout North America.[2] It is deeper-bodied than most suckers, leading to a fuller-bodied appearance. However, the quillback is not a carp. Quillback are catostomids, and like all catstomids, they do not have barbels around the mouth. The quillback is long-lived,[3] with age up to 30 years,[4] 44 years,[5] 49 years,[6] and 52 years[7] documented across different studies throughout North America."
+    },
+    "RHS": {
+        "code": "RHS",
+        "common_name": "redhorse",
+        "scientific_name": "Moxostoma sp.",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Robust_redhorse_FWS_1.jpg/220px-Robust_redhorse_FWS_1.jpg",
+        "description": "22, see text."
+    },
+    "MOE": {
+        "code": "MOE",
+        "common_name": "mooneye",
+        "scientific_name": "Hiodon tergisus",
+        "game_fish": false,
+        "species_group": "Hiodontidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hiodon_tergisus_NOAA.jpg/220px-Hiodon_tergisus_NOAA.jpg",
+        "description": "Hiodontidae, commonly called mooneyes, is a family of ray-finned fish with a single included genus Hiodon. The genus comprise two extant species native to North America and three to five extinct[1] species recorded from Paleocene to Eocene age fossils. They are large-eyed, fork-tailed fish that superficially resemble shads. The vernacular name comes from the metallic shine of their eyes."
+    },
+    "KOK": {
+        "code": "KOK",
+        "common_name": "kokanee",
+        "scientific_name": "Oncorhynchus nerka",
+        "game_fish": true,
+        "species_group": "Salmonidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "WAS": {
+        "code": "WAS",
+        "common_name": "walleye/sauger",
+        "scientific_name": "Sander vitreus X S. canadensis",
+        "game_fish": true,
+        "species_group": "Percidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "GOS": {
+        "code": "GOS",
+        "common_name": "golden shiner",
+        "scientific_name": "Notemigonus crysoleucas",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Notemigonus_crysoleucas-1.jpg/220px-Notemigonus_crysoleucas-1.jpg",
+        "description": "The golden shiner (Notemigonus crysoleucas) is a cyprinid fish native to eastern North America. It is the sole member of its genus. Much used as a bait fish, it is probably the most widely pond-cultured fish in the United States. It can be found in Quebec, and its French name is \"Men\u00e9 jaune\" or \"Chatte de l'Est\"."
+    },
+    "WAM": {
+        "code": "WAM",
+        "common_name": "warmouth",
+        "scientific_name": "Lepomis gulosus",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Chaenobryttus_gulosus.jpg/220px-Chaenobryttus_gulosus.jpg",
+        "description": "The warmouth (Lepomis gulosus) is a freshwater fish of the sunfish family (Centrarchidae) that is found throughout the eastern United States. Other local names include molly, redeye, goggle-eye, red-eyed bream, and strawberry perch."
+    },
+    "SNG": {
+        "code": "SNG",
+        "common_name": "shortnose gar",
+        "scientific_name": "Lepisosteus platostomus",
+        "game_fish": false,
+        "species_group": "Lepisosteidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lepisosteus_platostomus_drawing.jpg/220px-Lepisosteus_platostomus_drawing.jpg",
+        "description": "The shortnose gar (Lepisosteus platostomus) is a primitive freshwater fish of the family Lepisosteidae. It is native to the United States where its range includes the Mississippi and Missouri River basins, ranging from Montana to the west and the Ohio River to the east, southwards to the Gulf Coast. It inhabits calm waters in large rivers and their backwaters, as well as oxbow lakes and large pools. It is a long, slender fish, brown or olive green above and whitish below. It typically grows to about 60\u00a0cm (24\u00a0in) and is armored by rows of interlocking, rhomboidal ganoid scales."
+    },
+    "NHS": {
+        "code": "NHS",
+        "common_name": "northern hog sucker",
+        "scientific_name": "Hypentelium nigricans",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Northern_hogsucker_Hypentelium_nigricans.jpg/220px-Northern_hogsucker_Hypentelium_nigricans.jpg",
+        "description": "The northern hogsucker (Hypentelium nigricans) is a freshwater ray-finned fish belonging to the family Catostomidae, the suckers. It is native to the United States and Canada where it is found in streams and rivers. It prefers clear, fast-flowing water, where it can forage on the riverbed for crustaceans, mollusks, aquatic insects, algae and detritus. It turns over small pebbles and scrapes materials off rocks and sucks up the particles, and other species of fish sometimes station themselves downstream from its activities. In addition this species also is common in flowing water near dams and other streams of water. Breeding takes place on gravel bottoms in shallow riffles in late spring. This fish is susceptible to such man-made disturbances as channelization, sedimentation, pollution, and dam construction. However, it has a wide range and is a common species so the International Union for Conservation of Nature has rated its conservation status as being of \"least concern\". This species only gets around 8\u201312 inches in length but given the right conditions can exceed 16 inches in length and even exceed a pound in weight. The Northern Hogsucker is typically a bronze to gold coloration with patches of brown and black on its body. It has brownish grayish eyes. It\u2019s dorsal and pectoral fins are a dark brown color with the dorsal fin having a small bit of red on it as well. The northern hogsucker and other sucker minnow species have been seen in memes due to the unusual appearance of their mouths."
+    },
+    "SNC": {
+        "code": "SNC",
+        "common_name": "shortnose cisco",
+        "scientific_name": "Coregonus reighardi",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Coregonus_reighardi.png/220px-Coregonus_reighardi.png",
+        "description": "The shortnose cisco (Coregonus reighardi) is a North American freshwater whitefish in the salmon family Salmonidae. One of the members of the broader Coregonus artedi species complex of ciscoes, it is native to the Great Lakes of Canada and the United States. Its population has been declining and it has disappeared from some of its earlier haunts. The last reported population was restricted to Georgian Bay off Lake Huron in Canada. It is thought that declines in the population of this fish may be linked with the arrival of the sea lamprey (Petromyzon marinus), in the Great Lakes. The International Union for Conservation of Nature has rated the conservation status of this fish as \"critically endangered\", and possibly extinct."
+    },
+    "IOD": {
+        "code": "IOD",
+        "common_name": "Iowa darter",
+        "scientific_name": "Etheostoma exile",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Etheostoma_exile_430950160_%28cropped%29.jpg/220px-Etheostoma_exile_430950160_%28cropped%29.jpg",
+        "description": "Etheostoma exile, the Iowa darter, is a species of freshwater ray-finned fish, a darter from the subfamily Etheostomatinae, part of the family Percidae, which also contains the perches, ruffes and pikeperches. It is native to the lakes and streams of Iowa, along with about 17 other species of darters."
+    },
+    "WAE": {
+        "code": "WAE",
+        "common_name": "walleye",
+        "scientific_name": "Sander vitreus",
+        "game_fish": true,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Walleye_painting.jpg/220px-Walleye_painting.jpg",
+        "description": "The walleye (Sander vitreus, synonym Stizostedion vitreum), also called the walleyed pike,[3] yellow pike, yellow pikeperch or yellow pickerel,[4] is a freshwater perciform fish native to most of Canada and to the Northern United States. It is a North American close relative of the European zander, also known as the pikeperch. The walleye is sometimes called the yellow walleye to distinguish it from the blue walleye, which is a color morph that was once found in the southern Ontario and Quebec regions, but is now presumed extinct.[5] However, recent genetic analysis of a preserved (frozen) 'blue walleye' sample suggests that the blue and yellow walleye were simply phenotypes within the same species and do not merit separate taxonomic classification.[6]"
+    },
+    "SAR": {
+        "code": "SAR",
+        "common_name": "sauger",
+        "scientific_name": "Sander canadensis",
+        "game_fish": true,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Saugernctc.jpg/220px-Saugernctc.jpg",
+        "description": "The sauger (Sander canadensis) is a freshwater perciform fish of the family Percidae that resembles its close relative, the walleye. The species is a member of the largest vertebrate order, the Perciformes.[3] It is the most migratory percid species in North America.[4] Saugers have two dorsal fins; the first is spiny and the posterior dorsal fin is soft-rayed. Their paired fins are in the thoracic position and their caudal fin is truncated, which means squared off at the corners, a characteristic of the family Percidae. Another physical characteristic of saugers is their ctenoid scales, which are common in advanced fishes. Saugers have a fusiform body structure, and as a result are well adapted predatory fishes and are capable of swimming into fast currents with minimal drag on their bodies. They may be distinguished from walleyes by the distinctly spotted dorsal fin, by the lack of a white splotch on the caudal fin, by the rough skin over their gills, and by their generally more brassy color, or darker (almost black) color in some regions. The typical sauger is 300 to 400\u00a0g (11 to 14\u00a0oz) in weight."
+    },
+    "PTM": {
+        "code": "PTM",
+        "common_name": "plains topminnow",
+        "scientific_name": "Fundulus sciadicus",
+        "game_fish": false,
+        "species_group": "Fundulidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Plains_Topminnow_-_Fundulus_sciadicus.jpg/220px-Plains_Topminnow_-_Fundulus_sciadicus.jpg",
+        "description": "The plains topminnow (Fundulus sciadicus) is a species of freshwater topminnow found in North America. The fish has a small range within the United States of America which consists of two major populations."
+    },
+    "GOF": {
+        "code": "GOF",
+        "common_name": "goldfish",
+        "scientific_name": "Carassius auratus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Gold_fish1.jpg/220px-Gold_fish1.jpg",
+        "description": "The goldfish (Carassius auratus) is a freshwater fish in the family Cyprinidae of order Cypriniformes. It is commonly kept as a pet in indoor aquariums, and is one of the most popular aquarium fish. Goldfish released into the wild have become an invasive pest in parts of North America and Australia.[4][5]"
+    },
+    "COS": {
+        "code": "COS",
+        "common_name": "coho salmon",
+        "scientific_name": "Oncorhynchus kisutch",
+        "game_fish": true,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Oncorhynchus_keta.jpeg/220px-Oncorhynchus_keta.jpeg",
+        "description": "The coho salmon (Oncorhynchus kisutch; Karuk: achvuun[1]) is a species of anadromous fish in the salmon family and one of the five Pacific salmon species. Coho salmon are also known as silver salmon (or \"silvers\") and is often sold as medium red salmon.[2] The scientific species name is based on the Russian common name kizhuch (\u043a\u0438\u0436\u0443\u0447)."
+    },
+    "GOE": {
+        "code": "GOE",
+        "common_name": "goldeye",
+        "scientific_name": "Hiodon alosoides",
+        "game_fish": false,
+        "species_group": "Hiodontidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Goldeye_Hiodon_alosoides.jpg/220px-Goldeye_Hiodon_alosoides.jpg",
+        "description": "The goldeye (Hiodon alosoides) is a freshwater fish found in Canada and the northern United States. It is one of only two extant species in the family Hiodontidae, the other species being Hiodon tergisus.[4] The species name alosoides means shad-like.[5] It is also called Winnipeg goldeye, western goldeye, yellow herring, toothed herring, shad mooneye, la Queche, weepicheesis, or laquaiche aux yeux d\u2019or in French.[5]"
+    },
+    "CCF": {
+        "code": "CCF",
+        "common_name": "channel catfish",
+        "scientific_name": "Ictalurus punctatus",
+        "game_fish": true,
+        "species_group": "Ictaluridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ictalurus_punctatus.jpg/250px-Ictalurus_punctatus.jpg",
+        "description": "The channel catfish (Ictalurus punctatus), known informally as the \"channel cat\", is North America's most abundant catfish species. It is the official fish of Kansas, Missouri, Nebraska and Tennessee. The channel catfish is the most fished species of catfish in the United States, with around 8 million anglers angeling them per year. The popularity of channel catfish for food has contributed to the rapid expansion of this species' aquaculture in the United States.[3][4] It has also been widely introduced to Europe, Asia and South America, and many countries consider it an invasive species.[5][6][7]"
+    },
+    "SMT": {
+        "code": "SMT",
+        "common_name": "speckled madtom",
+        "scientific_name": "Noturus leptacanthus",
+        "game_fish": false,
+        "species_group": "Ictaluridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png",
+        "description": "The speckled madtom (Noturus leptacanthus) is a small freshwater fish found in the southeastern United States that belongs to the genus Noturus of the family Ictaluridae."
+    },
+    "SMS": {
+        "code": "SMS",
+        "common_name": "slimy sculpin",
+        "scientific_name": "Cottus cognatus",
+        "game_fish": false,
+        "species_group": "Cottidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cottus_cognatus.jpg/220px-Cottus_cognatus.jpg",
+        "description": "The slimy sculpin (Cottus cognatus) is a freshwater species of fish belonging to the family Cottidae, which is the largest sculpin family. They usually inhabit cold rocky streams or lakes across North America, ranging from the Great Lakes, southeast Minnesota, northeast Iowa, southwest Wisconsin and northeast Canada. Slimy sculpins have also been found roaming the cold streams of eastern Siberia.[3] They are commonly confused with their closely related relatives, Mottled sculpin (Cottus bairdi), and with tubenose gobies who are both freshwater fishes as well. The slimy sculpin is a nocturnal fish that usually spends most of its time on the stream bottom and seeks shelter under rocks and logs, especially during spawning season. When it swims, it sometimes appears to be \"hopping\" along the bottom because of its inefficient ability to swim. This is partly due to the absence of a swim bladder, which normally gives buoyancy to a fish.[3]"
+    },
+    "OZM": {
+        "code": "OZM",
+        "common_name": "Ozark minnow",
+        "scientific_name": "Notropis nubilus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ozark_minnow.jpg/220px-Ozark_minnow.jpg",
+        "description": "Alburnops nubilus Forbes, 1878"
+    },
+    "TST": {
+        "code": "TST",
+        "common_name": "threespine stickleback",
+        "scientific_name": "Gasterosteus aculeatus",
+        "game_fish": false,
+        "species_group": "Gasterosteidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gasterosteus_aculeatus.jpg/240px-Gasterosteus_aculeatus.jpg",
+        "description": "The three-spined stickleback (Gasterosteus aculeatus) is a fish native to most inland and coastal waters north of 30\u00b0N. It has long been a subject of scientific study for many reasons. It shows great morphological variation throughout its range, ideal for questions about evolution and population genetics. Many populations are anadromous (they live in seawater but breed in fresh or brackish water) and very tolerant of changes in salinity, a subject of interest to physiologists. It displays elaborate breeding behavior (defending a territory, building a nest, taking care of the eggs and fry) and it can be social (living in shoals outside the breeding season) making it a popular subject of inquiry in fish ethology and behavioral ecology. Its antipredator adaptations, host-parasite interactions, sensory physiology, reproductive physiology, and endocrinology have also been much studied. Facilitating these studies is the fact that the three-spined stickleback is easy to find in nature and easy to keep in aquaria.[4]"
+    },
+    "PGW": {
+        "code": "PGW",
+        "common_name": "pygmy whitefish",
+        "scientific_name": "Prosopium coulterii",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Prosopium_coulterii.jpg/220px-Prosopium_coulterii.jpg",
+        "description": "The pygmy whitefish (Prosopium coulterii) is a freshwater whitefish of the genus Prosopium in the family Salmonidae. Found in the mountain streams and lakes in western North America, it also has isolated populations in Lake Superior and in Ekityki Lake, Chukchi Peninsula."
+    },
+    "PGS": {
+        "code": "PGS",
+        "common_name": "pugnose shiner",
+        "scientific_name": "Notropis anogenus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pugnose_Shiner_%28Notropis_anogenus%29.gif/220px-Pugnose_Shiner_%28Notropis_anogenus%29.gif",
+        "description": "The pugnose shiner (Notropis anogenus) is a species of ray-finned fish in the genus Notropis. It is in the family Cyprinidae which consists of freshwater carps and minnows. Cyprinidae is the largest fish family which consists of about 369 genera and 3,018 species.[2] Its distribution has been decreasing due to the removal of aquatic plants in order to create swimming beaches and boating access in freshwater lakes and is now mostly found in Minnesota, Wisconsin, and Michigan.[3]"
+    },
+    "SAB": {
+        "code": "SAB",
+        "common_name": "smallmouth buffalo",
+        "scientific_name": "Ictiobus bubalus",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Smallmouth_buffalo.JPG/220px-Smallmouth_buffalo.JPG",
+        "description": "The smallmouth buffalo (Ictiobus bubalus, from the Greek for \"bull-fish\" and \"buffalo\") is recently realized as one of the longest-lived fishes, capable of living more than a century.[2] The smallmouth buffalo is in decline across large portions of its range,[3] and is subject to unregulated exploitation.[4][5][6][2][7] They are a catostomid fish species native to the major tributaries and surrounding waters of the Mississippi River in the United States, as well as some other water systems where it has been introduced. It is a long-lived,[8][9][10][2] stocky fish like its relatives the bigmouth buffalo[11] (I. cyprinellus) and the black buffalo[11][2] (I. niger). The smallmouth buffalo's mouth is located ventrally like other Catostomidae species, whereas the bigmouth buffalo's mouth is terminal and opens forward. It is thought that smallmouth buffalo eyes are significantly larger than those of the black buffalo. Despite being members of different scientific suborders, these three species are sometimes conflated with common carp (Cyprinus carpio), but an easy and notable difference is that all catostomids lack the characteristic barbels of carp, and carp are not native to North America whereas buffalofish are. Like the other buffalofish species, the smallmouth buffalo is targeted by modern bowfishing. [11][6][4][10][3][2][5][7]"
+    },
+    "BIB": {
+        "code": "BIB",
+        "common_name": "bigmouth buffalo",
+        "scientific_name": "Ictiobus cyprinellus",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bigmouth_Buffalo.jpg/220px-Bigmouth_Buffalo.jpg",
+        "description": "The bigmouth buffalo (Ictiobus cyprinellus) is a fish native to North America that is in decline.[2][3][4][5][6] It is the largest North American species in the Catostomidae or \"sucker\" family, and is one of the longest-lived and latest-maturing freshwater fishes, capable of living 127 years and reproducing infrequently.[4][5][3][6] Even at a century old they show no age-related declines, but instead improvements relative to younger individuals, making this species a biological marvel.[7][8][9] It is commonly called the gourdhead, marblehead, redmouth buffalo, buffalofish, bernard buffalo, roundhead, or brown buffalo.[10] The bigmouth buffalo is not a carp, nor is any other fish in the sucker family. Although they share the same order, each belong to different suborders and are native to separate continents."
+    },
+    "PGM": {
+        "code": "PGM",
+        "common_name": "pugnose minnow",
+        "scientific_name": "Opsopoeodus emiliae",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FMIB_40129_Opsopoeodus_oscula_Evermann_Type_Buffalo_Bayou%2C_Houston%2C_Texas.jpeg/220px-FMIB_40129_Opsopoeodus_oscula_Evermann_Type_Buffalo_Bayou%2C_Houston%2C_Texas.jpeg",
+        "description": "The pugnose minnow (Opsopoeodus emiliae) is a species of cyprinid fish found in the eastern North America. There are two recognized subspecies with the subspecies from Florida recognized as race peninsularis."
+    },
+    "FHM": {
+        "code": "FHM",
+        "common_name": "fathead minnow",
+        "scientific_name": "Pimephales promelas",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Pimephales_promelas2.jpg/220px-Pimephales_promelas2.jpg",
+        "description": "Fathead minnow (Pimephales promelas), also known as fathead or tuffy, is a species of temperate freshwater fish belonging to the genus Pimephales of the cyprinid family. The natural geographic range extends throughout much of North America, from central Canada south along the Rockies to Texas, and east to Virginia and the Northeastern United States.[2] This minnow has also been introduced to many other areas via bait bucket releases. Its golden, or xanthic, strain, known as the rosy-red minnow, is a very common feeder fish sold in the United States and Canada. This fish is best known for producing Schreckstoff (a distress signal)."
+    },
+    "RGB": {
+        "code": "RGB",
+        "common_name": "round goby",
+        "scientific_name": "Neogobius melanostomus",
+        "game_fish": false,
+        "species_group": "Gobiidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/A_large_neogobius_melanostomus.jpg/220px-A_large_neogobius_melanostomus.jpg",
+        "description": "The round goby (Neogobius melanostomus) is a euryhaline bottom-dwelling species of fish of the family Gobiidae. It is native to Central Eurasia, including the Black Sea and the Caspian Sea. Round gobies have established large non-native populations in the Baltic Sea, several major Eurasian rivers, and the North American Great Lakes.[4]"
+    },
+    "SMB": {
+        "code": "SMB",
+        "common_name": "smallmouth bass",
+        "scientific_name": "Micropterus dolomieu",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Smallmouth_bass.png/220px-Smallmouth_bass.png",
+        "description": "The smallmouth bass (Micropterus dolomieu) is a species of freshwater fish in the sunfish family (Centrarchidae) of the order Centrarchiformes.[4] It is the type species of its genus Micropterus (black basses), and is a popular game fish sought by anglers throughout the temperate zones of North America, and has been spread by stocking \u2014as well as illegal introductions\u2014to many cool-water tributaries and lakes in Canada and more so introduced in the United States.[4] The maximum recorded size is approximately 27 inches (69\u00a0cm) and 12 pounds (5.4\u00a0kg)."
+    },
+    "HHC": {
+        "code": "HHC",
+        "common_name": "hornyhead chub",
+        "scientific_name": "Nocomis biguttatus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/FMIB_51129_Horny_Head_or_River_Chub.jpeg/220px-FMIB_51129_Horny_Head_or_River_Chub.jpeg",
+        "description": "The hornyhead chub (Nocomis biguttatus) is a small species of minnow in the family Cyprinidae of order Cypriniformes. It mainly inhabits small rivers and streams of the northern central USA, up into Canada. The adults inhabit faster, rocky pools of rivers."
+    },
+    "BUB": {
+        "code": "BUB",
+        "common_name": "burbot",
+        "scientific_name": "Lota lota",
+        "game_fish": false,
+        "species_group": "Gadidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tr%C3%BCsche_Walchensee.jpg/220px-Tr%C3%BCsche_Walchensee.jpg",
+        "description": "The burbot (Lota lota), also known as bubbot,[2] mariah,[3] loche, cusk,[4] freshwater cod,[5] freshwater ling, freshwater cusk, the lawyer, coney-fish, lingcod,[6] or eelpout, is a species of coldwater ray-finned fish native to the subarctic regions of the Northern hemisphere. It is the only member of the genus Lota, and is the only freshwater species of the order Gadiformes. The species is closely related to marine fish such as the common ling and cusk, all of which belong to the family Lotidae (rocklings)."
+    },
+    "MMS": {
+        "code": "MMS",
+        "common_name": "mimic shiner",
+        "scientific_name": "Notropis volucellus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Notropis_volucellus.jpg/220px-Notropis_volucellus.jpg",
+        "description": "The mimic shiner (Notropis volucellus) is a species of North American cyprinid freshwater fish in the genus Notropis. The genus Notropis is commonly known as the eastern shiners. It is native to areas of the Hudson Bay drainage, Great Lakes drainage, much of the Mississippi River basin including areas of Tennessee, Virginia, North Carolina, and regions of the Gulf of Mexico extending from Mobile Bay to the drainage of Texas. However, this particular species can be found in other places such as the Atlantic Coast drainage in Connecticut and Housatonic rivers. This genus is usually characterized by almost all having a complete lateral line, 8 dorsal fin rays, a premaxillae protactile, and a silvery or speckled peritoneum. As the common name indicates, this species is difficult to classify in the wild because it looks similar to many other shiners. In fact, some even hypothesize that this species is actually a complexity of many cryptic species.[2] While this is the case, it is important to take more caution to not misidentify this species and to understand its impact on introduced areas."
+    },
+    "LGP": {
+        "code": "LGP",
+        "common_name": "logperch",
+        "scientific_name": "Percina caprodes",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Percina_kathae.jpg/220px-Percina_kathae.jpg",
+        "description": "Logperches are a group of ray-finned fish in the genus Percina of the family Percidae."
+    },
+    "NST": {
+        "code": "NST",
+        "common_name": "ninespine stickleback",
+        "scientific_name": "Pungitius pungitius",
+        "game_fish": false,
+        "species_group": "Gasterosteidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pungitius_pungitius.jpg/220px-Pungitius_pungitius.jpg",
+        "description": "The ninespine stickleback (Pungitius pungitius), also called the ten-spined stickleback, is a freshwater species of fish in the family Gasterosteidae that inhabits temperate waters. It is widely but locally distributed throughout Eurasia and North America. Despite its name, the number of spines can vary from 8 to 12."
+    },
+    "RSD": {
+        "code": "RSD",
+        "common_name": "redside dace",
+        "scientific_name": "Clinostomus elongatus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Clinostomus_elongatus_-_Wilhelma_01.jpg/220px-Clinostomus_elongatus_-_Wilhelma_01.jpg",
+        "description": "The redside dace (Clinostomus elongatus) is a species of ray-finned fish in the family Cyprinidae, found in the United States and Canada. It is unique among minnows, being the only species to routinely feed on flying insects by leaping from water.[2][3] Thus, it acts as a conduit for nutrient transfers between terrestrial and aquatic environments. The species can be used as an ecosystem health indicator, as it is sensitive to environmental disturbances."
+    },
+    "YLB": {
+        "code": "YLB",
+        "common_name": "yellow bass",
+        "scientific_name": "Morone mississippiensis",
+        "game_fish": true,
+        "species_group": "Moronidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Yellow_Bass.gif/220px-Yellow_Bass.gif",
+        "description": "The yellow bass (Morone mississippiensis) is a member of the family Moronidae. This species is a deep bodied fish that possesses five to seven dark stripes laterally along the sides, the lowest few of these are often broken or disrupted anterior to the origin of the anal fin. This species is somewhat similar to two other species in the family Moronidae, the white bass and the striped bass. The yellow bass is distinguishable from both of these species by having the offset lateral stripes above the anal fin and from not possessing tooth patches on the tongue. The yellow bass differs further from the white bass by having nine to ten anal rays in comparison to eleven or thirteen. The back of the fish is usually a dark olive green, and the abdomen and sides are often a silvery yellow.[3]"
+    },
+    "ABL": {
+        "code": "ABL",
+        "common_name": "American brook lamprey",
+        "scientific_name": "Lethenteron appendix",
+        "game_fish": false,
+        "species_group": "Petromyzontidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/American_brook_lamprey_ammocoete_%28SC%29_2.JPG/220px-American_brook_lamprey_ammocoete_%28SC%29_2.JPG",
+        "description": "Lethenteron appendix, the American brook lamprey, is a common non-parasitic lamprey in North America.[4] In adults their disc-like mouths contain poorly developed teeth, useless for attaching to a host."
+    },
+    "BHM": {
+        "code": "BHM",
+        "common_name": "bullhead minnow",
+        "scientific_name": "Pimephales vigilax",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Pimephales_vigilax.jpg/220px-Pimephales_vigilax.jpg",
+        "description": "The bullhead minnow (Pimephales vigilax) is a species of freshwater demersal fish,[3] native to the Mississippi River system in the United States, to tributaries of Lake Huron and Lake Michigan and to northern Mexico.[4]"
+    },
+    "RFS": {
+        "code": "RFS",
+        "common_name": "rosyface shiner",
+        "scientific_name": "Notropis rubellus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Notropis_rubellus.jpg/220px-Notropis_rubellus.jpg",
+        "description": "The rosyface shiner (Notropis rubellus) is a small fresh water fish of the minnow and carp family (Cyprinidae). It is native to eastern North America.[2]"
+    },
+    "SLS": {
+        "code": "SLS",
+        "common_name": "shovelnose sturgeon",
+        "scientific_name": "Scaphirhynchus platorynchus",
+        "game_fish": true,
+        "species_group": "Acipenseridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Scaphirhynchus_platorynchus_6.14.2014a.jpg/240px-Scaphirhynchus_platorynchus_6.14.2014a.jpg",
+        "description": "The shovelnose sturgeon (Scaphirhynchus platorynchus)[5] is the smallest species of freshwater sturgeon native to North America. It is often called hackleback, sand sturgeon, or switchtail. Switchtail refers to the long filament found on the upper lobe of the caudal fin (often broken off as adults). Shovelnose sturgeon are the most abundant sturgeon found in the Missouri River and Mississippi River systems, and were formerly a commercially fished sturgeon in the United States of America (Pflieger 1997). In 2010, they were listed as threatened under the U.S. Endangered Species Act due to their resemblance to the endangered pallid sturgeon (S. albus),[6] with which shovelnose sturgeon are sympatric.[6][7]"
+    },
+    "CNM": {
+        "code": "CNM",
+        "common_name": "central mudminnow",
+        "scientific_name": "Umbra limi",
+        "game_fish": false,
+        "species_group": "Umbridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Umbra_limi.jpg/220px-Umbra_limi.jpg",
+        "description": "The central mudminnow (Umbra limi) is a small fish in the family Umbridae of the order Esociformes. It is found in central and eastern North America in productive waters.[2] It is fairly tolerant of low oxygen concentrations and, as a result, it is sometimes the only, or one of a very few, fish species present in waters susceptible to winter or summer kill."
+    },
+    "LSR": {
+        "code": "LSR",
+        "common_name": "largescale stoneroller",
+        "scientific_name": "Campostoma oligolepis",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/C.oligolepsis.jpg/220px-C.oligolepsis.jpg",
+        "description": "The largescale stoneroller (Campostoma oligolepis) is a fish in the family Cyprinidae native to the eastern United States."
+    },
+    "SLR": {
+        "code": "SLR",
+        "common_name": "silver redhorse",
+        "scientific_name": "Moxostoma anisurum",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Moxostoma_anisurum.jpg/220px-Moxostoma_anisurum.jpg",
+        "description": "The silver redhorse (Moxostoma anisurum: Moxostoma= mouth to suck; anisurum = unequal tail[4][5]) is a species of freshwater fish endemic to Canada and the United States.[6] It is the longest-lived redhorse known (a group of 25 extant species), with a maximum reported age of 41 years.[3] Sometimes called redhorse or sucker for short, it is in the family Catostomidae with other suckers. The species is distributed from Quebec to Alberta and is also in the Mississippi River, St. Lawrence River, Ohio River, and the Great Lakes basins. The current world record is 6.75 kilograms (14\u00a0lb 14\u00a0oz), caught by Chris Stephenson on Pickwick Lake in Alabama, April 1995[7] and certified by National Freshwater Fishing Hall of Fame. This species is of growing interest to rod-and-line anglers.[8][9] The long-lived and late-maturing silver redhorse is also a sportfish pursued by kill-and-dump bowfishing, a 21st century unregulated sport that produces tons of wanton waste, and thus management and conservation are in need of updating.[3]"
+    },
+    "GAP": {
+        "code": "GAP",
+        "common_name": "grass carp",
+        "scientific_name": "Ctenopharyngodon idella",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ctenopharyngodon_idella_01_Pengo.jpg/220px-Ctenopharyngodon_idella_01_Pengo.jpg",
+        "description": "The grass carp (Ctenopharyngodon idella) is a species of large herbivorous freshwater fish in the family Cyprinidae, native to the Pacific Far East, with a native range stretching from northern Vietnam to the Amur River on the Sino-Russian border.[2] This Asian carp is the only species of the genus Ctenopharyngodon."
+    },
+    "FTD": {
+        "code": "FTD",
+        "common_name": "fantail darter",
+        "scientific_name": "Etheostoma flabellare",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Etheostoma_flabellare_311988080.jpg/220px-Etheostoma_flabellare_311988080.jpg",
+        "description": "The fantail darter (Etheostoma flabellare) is a species of freshwater ray-finned fish, a darter from the subfamily Etheostomatinae, part of the family Percidae, which also contains the perches, ruffes and pikeperches. It is widely distributed across streams in North America."
+    },
+    "TRP": {
+        "code": "TRP",
+        "common_name": "trout-perch",
+        "scientific_name": "Percopsis omiscomaycus",
+        "game_fish": true,
+        "species_group": "Percopsidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Percopsis_omiscomaycus.jpg/220px-Percopsis_omiscomaycus.jpg",
+        "description": "Percopsis omiscomaycus, also known as the trout-perch, the grounder or the sand minnow, is one of two species in the family Percopsidae. Its name comes from the Greek root words perc, meaning perch and opsi meaning appearance. The species name omiscomaycus is thought to be derived from a Native American word meaning trout. These are freshwater fish that prefer clear to slightly turbid water, and are found in rivers and lakes throughout North America.[2] They are a generally small fish found in deep waters by day, but which migrate to shallower waters at night.They are most often seen washed up on beaches and are rarely seen alive or correctly identified. The trout-perch possess characteristics similar to both the trout and the perch.[3] They are an important source of food for many predator fish such as walleye, northern pike, and lake trout. They are not a major human fishery, but are occasionally used as a bait fish.[2]"
+    },
+    "SLM": {
+        "code": "SLM",
+        "common_name": "Mississippi silvery minnow",
+        "scientific_name": "Hybognathus nuchalis",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png",
+        "description": "The Mississippi silvery minnow (Hybognathus nuchalis) is a species of fish in the family Cyprinidae. It is one of the 324 fish species found in Tennessee. Relative to other minnows, the Mississippi Silvery Minnow is a large minnow. These minnows require a body of water with little to no current. The most documentation of these minnows is from the Little and Great Miami river along with the Ohio river and tributes off these rivers. In terms of conservation, the population in Ohio is at an all-time low,[2] but overall there is little conservation concern about this specific minnow.[3] In general there has been little research done on the Mississippi silvery minnow."
+    },
+    "BHC": {
+        "code": "BHC",
+        "common_name": "bighead carp",
+        "scientific_name": "Hypophthalmichthys nobilis",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bighead_carp_%28March_2012%29.jpg/220px-Bighead_carp_%28March_2012%29.jpg",
+        "description": "The bighead carp (Hypophthalmichthys nobilis) is a species of cyprinid freshwater fish native to East Asia, and is one of several Asian carps introduced into North America. It is one of the most intensively exploited fishes in fish farming, with an annual worldwide production of over three million tonnes in 2013, principally from China.[2] Unlike the omnivorous common carp, bighead carp are primarily filter-feeding algae eaters, preferentially consuming zooplankton but also phytoplankton and detritus."
+    },
+    "SLC": {
+        "code": "SLC",
+        "common_name": "silver chub",
+        "scientific_name": "Macrhybopsis storeriana",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png",
+        "description": "Leuciscus\u00a0storerianus\u00a0Kirtland,\u00a01845\nHybopsis\u00a0storeriana\u00a0(Kirtland,\u00a01845)"
+    },
+    "CAP": {
+        "code": "CAP",
+        "common_name": "common carp",
+        "scientific_name": "Cyprinus carpio",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cyprinus_carpio_2008_G1_%28cropped%29.jpg/220px-Cyprinus_carpio_2008_G1_%28cropped%29.jpg",
+        "description": "The common carp (Cyprinus carpio), also known as European carp or Eurasian carp, is a widespread freshwater fish of eutrophic waters in lakes and large rivers in Europe and Asia.[2][3] The native wild populations are considered vulnerable to extinction by the International Union for Conservation of Nature (IUCN),[1] but the species has also been domesticated and introduced (see aquaculture) into environments worldwide, and is often considered a destructive invasive species,[2] being included in the list of the world's 100 worst invasive species. It gives its name to the carp family, Cyprinidae."
+    },
+    "EMS": {
+        "code": "EMS",
+        "common_name": "emerald shiner",
+        "scientific_name": "Notropis atherinoides",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Emerald_shiner_01.jpg/220px-Emerald_shiner_01.jpg",
+        "description": "The emerald shiner (Notropis atherinoides) is one of hundreds of small, silvery, slender fish species known as shiners. The identifying characteristic of the emerald shiner is the silvery emerald color on its sides. It is found across North America from Canada to the Gulf of Mexico, commonly in large, deep lakes and rivers, though sometimes in smaller bodies of water as well. It feeds on small organisms such as zooplankton and insects, congregating in large groups near the surface of the water. It is a quite common fish and is often used as a bait fish."
+    },
+    "FST": {
+        "code": "FST",
+        "common_name": "fourspine stickleback",
+        "scientific_name": "Apeltes quadracus",
+        "game_fish": false,
+        "species_group": "Gasterosteidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fourspine_Stickleback-_Apeltes_quadracus.jpg/220px-Fourspine_Stickleback-_Apeltes_quadracus.jpg",
+        "description": "Apeltes is a monospecific genus old ray-finned fish belonging to the family Gasterosteidae, the sticklebacks. The only species in the genus is A. quadracus, the fourspine stickleback or bloody stickleback, which lives in freshwater, brackish and benthopelagic environments of the northwestern Atlantic Ocean between Newfoundland and South Carolina."
+    },
+    "PRP": {
+        "code": "PRP",
+        "common_name": "pirate perch",
+        "scientific_name": "Aphredoderus sayanus",
+        "game_fish": false,
+        "species_group": "Aphredoderidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Aphredoderus_sayanus_sayanus.jpg/220px-Aphredoderus_sayanus_sayanus.jpg",
+        "description": "The pirate perch (Aphredoderus sayanus) is a freshwater fish that commonly inhabits coastal waters along the east coast of the United States and the backwater areas of the Mississippi Valley.[2][3] This species is often found towards the bottom of clear, warm water habitats with low currents. These fish are normally solitary, carnivorous, and nocturnal. The pirate perch is known to consume live mosquito larva, amphipods, glass shrimp, meal worms, small fish, dragonfly and stonefly larvae, and earthworms.[4]"
+    },
+    "RRH": {
+        "code": "RRH",
+        "common_name": "river redhorse",
+        "scientific_name": "Moxostoma carinatum",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png",
+        "description": "The river redhorse (Moxostoma carinatum) is a species of freshwater fish endemic to the eastern half of the United States and southeastern Canada. They can range from 10 to 30 inches in length and can potentially reach a weight of more than 10 pounds after maturity. It is typically found in clear, large creeks and rivers, though it is sometimes also found in lakes. They are sometimes speared or caught with hook and line using crayfish or worms as bait."
+    },
+    "CMS": {
+        "code": "CMS",
+        "common_name": "carmine shiner",
+        "scientific_name": "Notropis percobromus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Carmine_Shiner%2C_Minnesota_River%2C_Ortonville%2C_MN%2C_US_imported_from_iNaturalist_photo_219320625.jpg/400px-Carmine_Shiner%2C_Minnesota_River%2C_Ortonville%2C_MN%2C_US_imported_from_iNaturalist_photo_219320625.jpg",
+        "description": "Alburnellus percobromus Cope, 1871"
+    },
+    "HSF": {
+        "code": "HSF",
+        "common_name": "hybrid sunfish",
+        "scientific_name": "Lepomis sp. X Lepomis sp.",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "RES": {
+        "code": "RES",
+        "common_name": "redfin shiner",
+        "scientific_name": "Lythrurus umbratilis",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Lythrurus_umbratilis.JPG/220px-Lythrurus_umbratilis.JPG",
+        "description": "The redfin shiner (Lythrurus umbratilis) is a freshwater fish in the family Cyprinidae. The redfin shiner is most commonly found in the Ohio and Mississippi River basins, as well as in drainages of the Great Lakes. The diet of the redfin shiner consists mostly of algae and small insects. This species prefers calm water in low-gradient streams over substrates of gravel or sand with some vegetation."
+    },
+    "PRD": {
+        "code": "PRD",
+        "common_name": "northern pearl dace",
+        "scientific_name": "Margariscus nachtriebi",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Margariscus_nachtriebi_31403277_%28cropped%29.jpg/220px-Margariscus_nachtriebi_31403277_%28cropped%29.jpg",
+        "description": "The northern pearl dace (Margariscus nachtriebi) is a freshwater ray-finned fish in the family Cyprinidae, the carps and minnows. It occurs in Atlantic, Hudson Bay, Great Lakes, and Mississippi River basins in the northern United States and Canada. Its preferred habitat is cool, clear headwater streams, bog drainage streams, ponds and small lakes, and in stained, peaty waters of beaver ponds, usually over sand or gravel.[2]"
+    },
+    "HFS": {
+        "code": "HFS",
+        "common_name": "highfin carpsucker",
+        "scientific_name": "Carpiodes velifer",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png",
+        "description": "The highfin carpsucker (Carpiodes velifer) is a freshwater fish found in the southeastern and midwestern United States. Its usual habitat is medium to large-size rivers where it is mostly found 1 to 3 metres (3 to 10\u00a0ft) beneath the surface. It is a silvery fish with a prominent dorsal fin, which grows to an average length of 26.5 centimetres (10\u00a0in). It reaches sexual maturity at the age of three and females have 41,644 to 62,355 ova each.[3] This fish forages on sandy or gravelly bottoms for such small invertebrates as crustaceans, protozoa and mollusks as well as filamentous algae. Young fish are preyed on by northern pike, muskellunge, walleye and largemouth bass and larger fish are caught by recreational fishermen. The highfin carpsucker competes with catfish and does not thrive in rivers with high levels of siltation."
+    },
+    "BST": {
+        "code": "BST",
+        "common_name": "brook stickleback",
+        "scientific_name": "Culaea inconstans",
+        "game_fish": false,
+        "species_group": "Gasterosteidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Culaea_inconstans_1908.jpg/220px-Culaea_inconstans_1908.jpg",
+        "description": "The brook stickleback (Culaea inconstans) is a small freshwater fish that is distributed across the US and Canada. It grows to a length of about 2\u00a0inches. It occupies the northern part of the eastern United States, as well as the southern half of Canada. Small populations are scattered throughout the Mississippi-Great Lakes basin extending to Colorado, New Mexico, Kentucky, Tennessee, etc., though some of these areas are not native to the species.[3] This small fish inhabits clear, cool streams and lakes. They eat small Invertebrates, algae, insect larvae, and occasionally their own eggs. They are also preyed upon by smallmouth bass and northern pike.[3] Feeding time is usually dawn and sunset. The brook stickleback does have active competition mostly from minnows, but feeding times are different, along with diet.[4] Spawning occurs in midsummer. Males secure a territory, build a nest, and mate with females. Males provide protection for the eggs, ward off predators, and usually die later in the season. The nests are built out of aquatic grasses.[5] This is considered an annual species.[6] Though the brook stickleback is not considered a threatened species, deforesting and changing waters are altering ecosystems of the species. Harvesting of trees around riparian environments is having a large effect of the stream ecosystem where the brook stickleback resides.[7]"
+    },
+    "BSS": {
+        "code": "BSS",
+        "common_name": "bluespotted sunfish",
+        "scientific_name": "Enneacanthus gloriosus",
+        "game_fish": false,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Enneacanthus_gloriosus.jpg/220px-Enneacanthus_gloriosus.jpg",
+        "description": "The bluespotted sunfish (Enneacanthus gloriosus) is a species of fish in the family Centrarchidae, the sunfishes. It is native to the southeastern and eastern United States, its distribution extending as far north as New Jersey, Pennsylvania, and far southern New York.[1][3] It is native throughout most of its range, but some populations represent introductions, such as those in Lake Ontario and the upper Susquehanna River system.[4]"
+    },
+    "SKM": {
+        "code": "SKM",
+        "common_name": "suckermouth minnow",
+        "scientific_name": "Phenacobius mirabilis",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Phenacobius_mirabilis.jpg/220px-Phenacobius_mirabilis.jpg",
+        "description": "Sarcidium Cope, 1871"
+    },
+    "NRD": {
+        "code": "NRD",
+        "common_name": "northern redbelly dace",
+        "scientific_name": "Phoxinus eos",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Phoxinus_eos.jpg/220px-Phoxinus_eos.jpg",
+        "description": "The northern redbelly dace (Chrosomus eos) is a fresh water cyprinid fish, generally found in lakes and small streams in the northeastern United States and eastern Canada. Ranging from 1\u20133 inches, it is one of forty-four species from the minnow and carp family of Cyprinidae in these areas.[2]"
+    },
+    "SKJ": {
+        "code": "SKJ",
+        "common_name": "skipjack herring",
+        "scientific_name": "Alosa chrysochloris",
+        "game_fish": false,
+        "species_group": "Clupeidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Skipjack_herring_fish_alosa_chrysochloris.jpg/220px-Skipjack_herring_fish_alosa_chrysochloris.jpg",
+        "description": "Pomolobus chrysochloris Rafinesque, 1820"
+    },
+    "DSF": {
+        "code": "DSF",
+        "common_name": "dollar sunfish",
+        "scientific_name": "Lepomis marginatus",
+        "game_fish": false,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lepomis_marginatus_UMFS_2014_1.JPG/220px-Lepomis_marginatus_UMFS_2014_1.JPG",
+        "description": "The dollar sunfish (Lepomis marginatus) is a species of freshwater fish in the sunfish family (family Centrarchidae) of order Centrarchiformes. It is categorized as a warm water pan-fish. Early settlers said that this species of sunfish resembled a European species they called \"bream\". Historically it has been found along the Southern Atlantic coastal drainages from North Carolina to Florida, and west to Texas.[3] Lepomis marginatus mainly feeds on detritus and filamentous algae as well as a few terrestrial insects (Homoptera, Hymenoptera[4][page\u00a0needed]). The juvenile and mature fish do not have many predators, but the eggs in the nest are in danger of predation from a few different species of fish."
+    },
+    "GLR": {
+        "code": "GLR",
+        "common_name": "golden redhorse",
+        "scientific_name": "Moxostoma erythrurum",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Moxostoma_erythrurum.jpg/220px-Moxostoma_erythrurum.jpg",
+        "description": "The golden redhorse (Moxostoma erythrurum) is a species of freshwater fish endemic to Ontario and Manitoba in Canada and the Midwestern, southern, and eastern United States. It lives in calm, often silty or sandy waters in streams, small to large rivers, and lakes."
+    },
+    "AME": {
+        "code": "AME",
+        "common_name": "American eel",
+        "scientific_name": "Anguilla rostrata",
+        "game_fish": false,
+        "species_group": "Anguillidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/American_Eel.jpg/220px-American_Eel.jpg",
+        "description": "Leptocephalus grassii"
+    },
+    "BSF": {
+        "code": "BSF",
+        "common_name": "banded sunfish",
+        "scientific_name": "Enneacanthus obesus",
+        "game_fish": false,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Enneacanthus_obesus.jpg/220px-Enneacanthus_obesus.jpg",
+        "description": "Pomotis obesus Girard, 1854"
+    },
+    "BSD": {
+        "code": "BSD",
+        "common_name": "blackside darter",
+        "scientific_name": "Percina maculata",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/..._The_fishes_of_Illinois_%281908%29_%2814801632653%29.jpg/220px-..._The_fishes_of_Illinois_%281908%29_%2814801632653%29.jpg",
+        "description": "Alvordius maculatus Girard, 1859"
+    },
+    "UK9": {
+        "code": "UK9",
+        "common_name": "unknown fish nine",
+        "scientific_name": "Incompertus nevem",
+        "game_fish": false,
+        "species_group": "Unknown sp.",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "LES": {
+        "code": "LES",
+        "common_name": "northern sunfish",
+        "scientific_name": "Lepomis peltastes",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Lepomis_peltastes_413191909.jpg/220px-Lepomis_peltastes_413191909.jpg",
+        "description": "The northern sunfish (Lepomis peltastes) is a freshwater fish in the sunfish family (Centrarchidae). It is endemic to northern North America. Lepomis peltastes was previously recognized as a subspecies of longear sunfish (Lepomis megalotis), but is now widely considered a distinct species."
+    },
+    "UK8": {
+        "code": "UK8",
+        "common_name": "unknown fish eight",
+        "scientific_name": "Incompertus duodeviginti",
+        "game_fish": false,
+        "species_group": "Unknown sp.",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "UK7": {
+        "code": "UK7",
+        "common_name": "unknown fish seven",
+        "scientific_name": "Incompertus septem",
+        "game_fish": false,
+        "species_group": "Unknown sp.",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "UK6": {
+        "code": "UK6",
+        "common_name": "unknown fish six",
+        "scientific_name": "Incompertus six",
+        "game_fish": false,
+        "species_group": "Unknown sp.",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "ILA": {
+        "code": "ILA",
+        "common_name": "lamprey ammocoete",
+        "scientific_name": "Lamprey Ammocoete",
+        "game_fish": false,
+        "species_group": "Petromyzontidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "UK5": {
+        "code": "UK5",
+        "common_name": "unknown fish five",
+        "scientific_name": "Incompertus quinque",
+        "game_fish": false,
+        "species_group": "Unknown sp.",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "UK4": {
+        "code": "UK4",
+        "common_name": "unknown fish four",
+        "scientific_name": "Incompertus quattuor",
+        "game_fish": false,
+        "species_group": "Unknown sp.",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "UK3": {
+        "code": "UK3",
+        "common_name": "unknown fish three",
+        "scientific_name": "Incompertus three",
+        "game_fish": false,
+        "species_group": "Unknown sp.",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "RDW": {
+        "code": "RDW",
+        "common_name": "round whitefish",
+        "scientific_name": "Prosopium cylindraceum",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Prosopium_cylindraceum.jpg/220px-Prosopium_cylindraceum.jpg",
+        "description": "The round whitefish (Prosopium cylindraceum) is a freshwater species of fish that is found in North American drainages from Alaska to New England, including the Great Lakes except for Lake Erie,[1] and in Arctic tributaries of northeast Asia, as well as northern Kamchatka Peninsula and the northern coasts of the Sea of Okhotsk.[2] It has an olive-brown back with light silvery sides and underside and its length is generally between 9 and 19 inches (23 and 48\u00a0cm). They are bottom feeders, feeding mostly on invertebrates, such as crustaceans, insect larvae, and fish eggs. Some other fish species, like white sucker in turn eat their eggs. Lake trout, northern pike and burbot are natural predators. Other common names of the round whitefish are Menominee, pilot fish, frost fish, round-fish, and Menominee whitefish. The common name \"round whitefish\" is also sometimes used to describe Coregonus huntsmani, a salmonid more commonly known as the Atlantic whitefish."
+    },
+    "UK2": {
+        "code": "UK2",
+        "common_name": "unknown fish two",
+        "scientific_name": "Incompertus duos",
+        "game_fish": false,
+        "species_group": "Unknown sp.",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "GLD": {
+        "code": "GLD",
+        "common_name": "gilt darter",
+        "scientific_name": "Percina evides",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Gilt_Darter.jpg/220px-Gilt_Darter.jpg",
+        "description": "Alvordius evides Jordan & Copeland, 1877"
+    },
+    "UK1": {
+        "code": "UK1",
+        "common_name": "unknown fish one",
+        "scientific_name": "Incompertus unus",
+        "game_fish": false,
+        "species_group": "Unknown sp.",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "ALW": {
+        "code": "ALW",
+        "common_name": "alewife",
+        "scientific_name": "Alosa pseudoharengus",
+        "game_fish": false,
+        "species_group": "Clupeidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "RDS": {
+        "code": "RDS",
+        "common_name": "red shiner",
+        "scientific_name": "Cyprinella lutrensis",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Red_shiner.JPG/220px-Red_shiner.JPG",
+        "description": "The red shiner or red-horse minnow (Cyprinella lutrensis) is a North American species of freshwater fish in the family Cyprinidae. They are deep-bodied and laterally compressed,[2] and can grow to about 3 inches (7.6\u00a0cm) in length. For most of the year, both males and females have silver sides and whitish abdomens. Males in breeding coloration, though, have iridescent pink-purple-blue sides and a red crown and fins (except the dorsal fin which remains dark).[3]"
+    },
+    "LED": {
+        "code": "LED",
+        "common_name": "least darter",
+        "scientific_name": "Etheostoma microperca",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Least_darter.jpg/220px-Least_darter.jpg",
+        "description": "The least darter (Etheostoma microperca), is a species of freshwater ray-finned fish, a darter from the subfamily Etheostomatinae, part of the family Percidae, which also contains the perches, ruffes and pikeperches. It is generally found in lakes and streams in northeastern part of the United States and along the Mississippi River systems."
+    },
+    "FRD": {
+        "code": "FRD",
+        "common_name": "freshwater drum",
+        "scientific_name": "Aplodinotus grunniens",
+        "game_fish": false,
+        "species_group": "Sciaenidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Freshwaterdrum.png/220px-Freshwaterdrum.png",
+        "description": "The freshwater drum, Aplodinotus grunniens, is a fish endemic to North and Central America. It is the only species in the genus Aplodinotus,[3] and is a member of the family Sciaenidae. It is the only North American member of the group that inhabits freshwater for its entire life.[4] Its generic name, Aplodinotus, comes from Greek meaning \"single back\", and the specific epithet, grunniens, comes from a Latin word meaning \"grunting\".[5] It is given to it because of the grunting noise that mature males make. This noise comes from a special set of muscles within the body cavity that vibrate against the swim bladder. The purpose of the grunting is unknown, but due to it being present in only mature males and during the spawning season, it is assumed to be linked to spawning.[4][6]"
+    },
+    "TPM": {
+        "code": "TPM",
+        "common_name": "tadpole madtom",
+        "scientific_name": "Noturus gyrinus",
+        "game_fish": false,
+        "species_group": "Ictaluridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Tadpole_madtom.jpg/220px-Tadpole_madtom.jpg",
+        "description": "The tadpole madtom (Noturus gyrinus) is a species of fish in the family Ictaluridae.[2] It is native to Canada and the United States.[3]"
+    },
+    "BFC": {
+        "code": "BFC",
+        "common_name": "blackfin cisco",
+        "scientific_name": "Coregonus nigripinnis",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/FMIB_42893_Blackfin_of_Lake_Michigan_-_Leucichthys_nigripinnis_%28Gill%29.jpeg/220px-FMIB_42893_Blackfin_of_Lake_Michigan_-_Leucichthys_nigripinnis_%28Gill%29.jpeg",
+        "description": "The blackfin cisco (Coregonus nigripinnis) was a North American salmonid fish in the freshwater whitefish sub-family Coregoninae. This silvery, deep-bodied fish with black fins, large eyes, a blunt snout and a terminal mouth, was one of the largest forms of ciscoes. The blackfin cisco used to inhabit the Great Lakes of North America until recently, but has been reported to have gone extinct. The blackfin cisco is a member of the C. artedi complex, whose taxonomy has not yet been resolved, and it may not represent a valid species."
+    },
+    "BRM": {
+        "code": "BRM",
+        "common_name": "brassy minnow",
+        "scientific_name": "Hybognathus hankinsoni",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hybognathus_hankinsoni_Hubbs%2C_1929_3067596779.jpg/220px-Hybognathus_hankinsoni_Hubbs%2C_1929_3067596779.jpg",
+        "description": "The brassy minnow (Hybognathus hankinsoni) is a species of fish belonging to the family Cyprinidae. The family Cyprinidae consists of mainly freshwater minnows and carps. The fish gets its scientific name (Hybognathus hankinsoni) from the Greek word Hybognathus, meaning bulging jaw, and hankinsoni from the American scientist, T.L. Hankinson.[2] It is commonly found throughout the northern United States and Canada.[3]"
+    },
+    "ALG": {
+        "code": "ALG",
+        "common_name": "alligator gar",
+        "scientific_name": "Atractosteus spatula",
+        "game_fish": false,
+        "species_group": "Lepisosteidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Alligator_Gar_10.JPG/220px-Alligator_Gar_10.JPG",
+        "description": "The alligator gar (Atractosteus spatula) is a euryhaline ray-finned fish in the clade Ginglymodi of the infraclass Holostei /ho\u028a\u02c8l\u0252stia\u026a/, being most closely related to the bowfins. It is the largest species in the gar family (Lepisosteidae), and is among the largest freshwater fish in North America. The fossil record traces its group's existence back to the Early Cretaceous over 100 million years ago. Gars are often referred to as \"primitive fishes\" or \"living fossils\", because they have retained some morphological characteristics of their early ancestors, such as a spiral valve intestine, which is also common to the digestive system of sharks, and the ability to breathe in both air and water. Their common name was derived from their resemblance to the American alligator, particularly their broad snouts and long, sharp teeth. It is suggested that an alligator gar can grow up to 10\u00a0ft (3.0\u00a0m) in length."
+    },
+    "BRH": {
+        "code": "BRH",
+        "common_name": "black redhorse",
+        "scientific_name": "Moxostoma duquesnei",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Black_redhorse.jpg/220px-Black_redhorse.jpg",
+        "description": "The black redhorse (Moxostoma duquesnei, also duquesnii, duquesni) is a species of freshwater fish endemic to Ontario and the eastern half of the United States, where it lives in streams and small to medium rivers."
+    },
+    "SJC": {
+        "code": "SJC",
+        "common_name": "shortjaw cisco",
+        "scientific_name": "Coregonus zenithicus",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/FMIB_42882_Leucichthys_zenithicus_%28Jordan_%26_Evermann%29_Lake_Superior_Longjaw_From_the_type.jpeg/220px-FMIB_42882_Leucichthys_zenithicus_%28Jordan_%26_Evermann%29_Lake_Superior_Longjaw_From_the_type.jpeg",
+        "description": "The shortjaw cisco (Coregonus zenithicus) is a North-American freshwater whitefish in the salmon family. Adult fish range to about 30\u00a0cm (12\u00a0in) in length and are silver, tinged with green above and paler below. One of the members of the broader Coregonus artedi complex of ciscoes, it is distributed widely in the deeper lakes of Canada, but populations in the Great Lakes have been declining and it is no longer present in Lakes Michigan, Huron, and Erie. It feeds mainly on crustaceans and insect larvae and spawns in the autumn on the lake bed. It is part of the important cisco (chub) fishery in the Great Lakes. The International Union for Conservation of Nature has rated its conservation status as \"vulnerable\".[1] Shortjaw cisco have however evolved from the cisco Coregonus artedi independently in different lakes and different parts of the range, and conservation assessments therefore should be made on a lake-wise rather than range-wide basis.[2]"
+    },
+    "BRB": {
+        "code": "BRB",
+        "common_name": "brown bullhead",
+        "scientific_name": "Ameiurus nebulosus",
+        "game_fish": false,
+        "species_group": "Ictaluridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ameiurus_nebulosus.jpg/220px-Ameiurus_nebulosus.jpg",
+        "description": "The brown bullhead (Ameiurus nebulosus) is a fish of the family Ictaluridae that is widely distributed in North America. It is a species of bullhead catfish and is similar to the black bullhead (Ameiurus melas) and yellow bullhead (Ameiurus natalis). It was originally described as Pimelodus nebulosus by Charles Alexandre Lesueur in 1819, and is also referred to as Ictalurus nebulosus."
+    },
+    "NPS": {
+        "code": "NPS",
+        "common_name": " No particular species",
+        "scientific_name": "Haud proprius proprius",
+        "game_fish": false,
+        "species_group": "Unknown sp.",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "RCS": {
+        "code": "RCS",
+        "common_name": "river carpsucker",
+        "scientific_name": "Carpiodes carpio",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/River_carpsucker_fish_carpoides_carpio_%282%29.jpg/220px-River_carpsucker_fish_carpoides_carpio_%282%29.jpg",
+        "description": "The river carpsucker (Carpiodes carpio) is a freshwater fish belonging to the Catostomidae that is native to the inland United States and northern Mexico. This species has a slightly arched back and is somewhat stout and compressed. While the fins are usually opaque, in older fish they may be dark yellow. It is distributed along the Mississippi River basin from Pennsylvania to Montana. The river carpsucker, like most suckers, is a bottom feeder and obtains its nutrients from algae, microcrustaceans, and other various tiny planktonic plants and animals found in silty substrates. Like its congener, the quillback, the river carpsucker is long-lived, with a known maximum lifespan of 40 years in Colorado,[2] and 47 years in Minnesota.[3] It begins to reproduce typically in late spring, and the female usually releases more than 100,000 eggs. There is no parental care provided."
+    },
+    "SIP": {
+        "code": "SIP",
+        "common_name": "northern pike (silver phase)",
+        "scientific_name": "Esox lucius - variation",
+        "game_fish": true,
+        "species_group": "Esocidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "SIL": {
+        "code": "SIL",
+        "common_name": "silver lamprey",
+        "scientific_name": "Ichthyomyzon unicuspis",
+        "game_fish": false,
+        "species_group": "Petromyzontidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ichthyomyzon_unicuspis.jpg/220px-Ichthyomyzon_unicuspis.jpg",
+        "description": "The silver lamprey (Ichthyomyzon unicuspis) is a lamprey commonly found in the Northern and Central United States, as well as a large part of southern Canada. Its binomial name means \"sucking fish\" in Greek and \"one-pointed\" in Latin. The silver lamprey is a member of the class Agnatha, sometimes referred to as cyclostomes (round-mouths). Other common names include: bloodsucker, blue lamprey, hitch-hiker, lamper, lamprey eel, northern lamprety. The silver lamprey should not be confused with the sea lamprey (Petromyzon marinus), which has caused considerable damage to native fish populations in the Great Lakes region."
+    },
+    "NPC": {
+        "code": "NPC",
+        "common_name": "Nipigon cisco",
+        "scientific_name": "Coregonus nipigon",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "SUN": {
+        "code": "SUN",
+        "common_name": "sunfish",
+        "scientific_name": "Lepomis sp.",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "SIC": {
+        "code": "SIC",
+        "common_name": "silver carp",
+        "scientific_name": "Hypophthalmichthys molitrix",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Silver_Carp_Adult_%28Hypophthalmichthys_molitrix%29.jpg/220px-Silver_Carp_Adult_%28Hypophthalmichthys_molitrix%29.jpg",
+        "description": "The silver carp or silverfin (Hypophthalmichthys molitrix) is a species of freshwater cyprinid fish, a variety of Asian carp native to China and eastern Siberia, from the Amur River drainage in the north to the Xi Jiang River drainage in the south.[3] Although a threatened species in its natural habitat, it has long been cultivated in China as one of the \"Four Famous Domestic Fish\" (\u56db\u5927\u5bb6\u9c7c) together with Bighead carp, Black carp and Grass carp.[4] By weight, more silver carp are produced worldwide in aquaculture than any other species of fish except for the grass carp. Silver carp are usually farmed in polyculture with other Asian carp, or sometimes with catla or other shark species."
+    },
+    "WHP": {
+        "code": "WHP",
+        "common_name": "white perch",
+        "scientific_name": "Morone americana",
+        "game_fish": true,
+        "species_group": "Moronidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Morone_americana_PAQ.jpg/220px-Morone_americana_PAQ.jpg",
+        "description": "The white perch (Morone americana) is not a true perch but is a fish of the temperate bass family, Moronidae, notable as a food and game fish in eastern North America. In some places it is referred to as \"Silver Bass\".[citation needed]"
+    },
+    "LCP": {
+        "code": "LCP",
+        "common_name": "leather carp",
+        "scientific_name": "Cyprinus carpio - variation",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Mirror_carp_2008_G1.jpg/220px-Mirror_carp_2008_G1.jpg",
+        "description": "Cyprinus carpio carpio is a subspecies of the common carp that is commonly found in Europe. They are native to much of Europe (notably the Danube and Volga Rivers) and can also be found in the Caucasus and Central Asia.[2] Mitochondrial DNA analysis shows a difference between C. carpio carpio and Cyprinus rubrofuscus.[3] They are omnivorous in nature and feed on mollusks, insects, crustaceans and seeds.[4] Though dark in color, there are some wild caught specimens which are colored orange (maybe domesticated ones that are only released into the rivers). This subspecies has also been domesticated in European ponds for hundreds of years.[5] They are considered as a naturalized species in most US states."
+    },
+    "BDS": {
+        "code": "BDS",
+        "common_name": "banded sculpin",
+        "scientific_name": "Cottus carolinea",
+        "game_fish": false,
+        "species_group": "Cottidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Banded_sculpin.jpg/220px-Banded_sculpin.jpg",
+        "description": "The banded sculpin (Cottus carolinae) is a freshwater fish dwelling mostly in small to moderate sized streams in areas of swift current. Young and juvenile C. carolinae can mainly be found in pools, riffles, and other shallow habitats while adults tend to prefer deeper waters. C. carolinae primarily eats insects and insect larvae, but their large mouths enable them to eat prey nearly as large as themselves, including other sculpin.[2] To prevent predation, including by other fish, the color and pattern of the sculpin tends to match its environment. Most Cottus carolinae are mottled brown with dark vertical banding and usually reach about three inches in length. They have a broad head which rather quickly narrows into a slim body, giving them the appearance of a tadpole reaching adulthood."
+    },
+    "NOP": {
+        "code": "NOP",
+        "common_name": "northern pike",
+        "scientific_name": "Esox lucius",
+        "game_fish": true,
+        "species_group": "Esocidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Esox_lucius_ZOO_1.jpg/220px-Esox_lucius_ZOO_1.jpg",
+        "description": "The northern pike (Esox lucius) is a species of carnivorous fish of the genus Esox (pikes). They are commonly found in moderately salty and fresh waters of the Northern Hemisphere (i.e. holarctic in distribution). They are known simply as a pike (pl: pike) in Great Britain, Ireland, most of Eastern Europe, Canada and the U.S., although in the Midwest, they may be called a Northern.[2]"
+    },
+    "WTS": {
+        "code": "WTS",
+        "common_name": "white sucker",
+        "scientific_name": "Catostomus commersonii",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/White_Sucker%2C_Catostomus_commersonii.jpg/220px-White_Sucker%2C_Catostomus_commersonii.jpg",
+        "description": "The white sucker (Catostomus commersonii)[1][2][3] is a species of freshwater cypriniform fish inhabiting the upper Midwest and Northeast in North America, but it is also found as far south as Georgia and as far west as New Mexico. The fish is commonly known as a \"sucker\" due to its fleshy, papillose lips that suck up organic matter and aufwuchs from the bottom of rivers and streams."
+    },
+    "RBT": {
+        "code": "RBT",
+        "common_name": "rainbow trout",
+        "scientific_name": "Oncorhynchus mykiss",
+        "game_fish": true,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg/220px-Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg",
+        "description": "The rainbow trout (Oncorhynchus mykiss) is a species of trout native to cold-water tributaries of the Pacific Ocean in North America and Asia. The steelhead (sometimes called steelhead trout) is an anadromous (sea-run) form of the coastal rainbow trout (O. m. irideus) or Columbia River redband trout (O. m. gairdneri) that usually returns to freshwater to spawn after living two to three years in the ocean. Freshwater forms that have been introduced into the Great Lakes and migrate into tributaries to spawn are also called steelhead."
+    },
+    "RBS": {
+        "code": "RBS",
+        "common_name": "rainbow smelt",
+        "scientific_name": "Osmerus mordax",
+        "game_fish": false,
+        "species_group": "Osmeridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Osmerus_mordax.jpg/220px-Osmerus_mordax.jpg",
+        "description": "Osmerus mordax mordax (Mitchill, 1814)\nOsmerus mordax dentex Steindachner & Kner, 1870"
+    },
+    "SHS": {
+        "code": "SHS",
+        "common_name": "spoonhead sculpin",
+        "scientific_name": "Cottus ricei",
+        "game_fish": false,
+        "species_group": "Cottidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spoonhead_Sculpin.gif/220px-Spoonhead_Sculpin.gif",
+        "description": "The spoonhead sculpin (Cottus ricei) is a species of freshwater ray-finned fish belonging to the family Cottidae, the typical sculpins. This species is widespread in northeastern North America."
+    },
+    "SHR": {
+        "code": "SHR",
+        "common_name": "shorthead redhorse",
+        "scientific_name": "Moxostoma macrolepidotum",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Moxostoma_macrolepidotum.jpg/220px-Moxostoma_macrolepidotum.jpg",
+        "description": "The shorthead redhorse (Moxostoma macrolepidotum) is a wide-ranging species in North America. The shorthead redhorse is native to central and eastern North America. However, its range has expanded to include areas like the Hudson estuary and Grayson County, Texas. It inhabits small to large rivers and lakes, and lives in the benthic zone. Shorthead redhorse feed on benthic invertebrates and can consume plant material from the benthic environment that it inhabits. When it spawns, shorthead redhorse move into more shallow streams and spawn over gravel or rocky shoals. They will also spawn in springs with swift moving water. The shorthead redhorse is important to humans because it is a game fish. It is also important to anglers because of its role in the ecosystem; it is prey for larger game fish such as northern pike and muskellunge."
+    },
+    "WHC": {
+        "code": "WHC",
+        "common_name": "white crappie",
+        "scientific_name": "Pomoxis annularis",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/White_Crappie.jpg/220px-White_Crappie.jpg",
+        "description": "The white crappie (Pomoxis annularis) is a freshwater fish found in North America, one of the two species of crappies.[3] Alternate common names for the species include goldring, silver perch,[4] white perch and sac-a-lait.[3] USS\u00a0Goldring is named for the fish. The genus name Pomoxis refers to crappies' sharp operculum, while the species name annularis means 'having rings', i.e., it has vaguely vertical bars on the body.[5]"
+    },
+    "WHB": {
+        "code": "WHB",
+        "common_name": "white bass",
+        "scientific_name": "Morone chrysops",
+        "game_fish": true,
+        "species_group": "Moronidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/White_Bass.jpg/220px-White_Bass.jpg",
+        "description": "The white bass, silver bass, or sand bass (Morone chrysops) is a freshwater fish of the temperate bass family Moronidae. commonly around 12\u201315 inches long. The species' main color is silver-white to pale green. Its back is dark, with white sides and belly, and with narrow dark stripes running lengthwise on its sides. It has large, rough scales and two dorsal fins. They are widely distributed across North America, inhabiting large reservoirs and rivers. When mating in the spring, they are more often found in shallow rivers, creeks, and streams. They have been introduced in some places as sport fish and also to predate on nuisance fish, such as gizzard shad. It is the state fish of Oklahoma."
+    },
+    "HCR": {
+        "code": "HCR",
+        "common_name": "hybrid crappie",
+        "scientific_name": "Pomoxis sp. X Pomoxis sp.",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "BDD": {
+        "code": "BDD",
+        "common_name": "banded darter",
+        "scientific_name": "Etheostoma zonale",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "SHI": {
+        "code": "SHI",
+        "common_name": "shiners",
+        "scientific_name": "Notropis etc.",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "GIS": {
+        "code": "GIS",
+        "common_name": "gizzard shad",
+        "scientific_name": "Dorosoma cepedianum",
+        "game_fish": false,
+        "species_group": "Clupeidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Dorosoma_cepedianum_GLERL.jpg/220px-Dorosoma_cepedianum_GLERL.jpg",
+        "description": "See text"
+    },
+    "KIC": {
+        "code": "KIC",
+        "common_name": "kiyi",
+        "scientific_name": "Coregonus kiyi",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Status_iucn3.1_VU.svg/220px-Status_iucn3.1_VU.svg.png",
+        "description": "The kiyi (Coregonus kiyi) is a species of freshwater whitefish, a deepwater cisco, endemic to the Great Lakes of North America. It previously inhabited Lake Superior, Lake Michigan, Lake Huron and Lake Ontario, but is now believed to persist only in Lake Superior where it is common. The various deepwater ciscos are also called chubs (not to be confused with the various species of Cyprinidae also called chubs). The kiyi is part of the large group of related northern ciscos known as the Coregonus artedi complex."
+    },
+    "RBD": {
+        "code": "RBD",
+        "common_name": "rainbow darter",
+        "scientific_name": "Etheostoma caeruleum",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Etheostoma_caeruleum.jpg/220px-Etheostoma_caeruleum.jpg",
+        "description": "The rainbow darter (Etheostoma caeruleum) is a small species of freshwater ray-finned fish, a darter from the subfamily Etheostomatinae, part of the family Percidae, which also contains the perches, ruffes and pikeperches. It is native to North America where it is found in small, fast-moving streams and small to medium-sized rivers. It grows to 2 to 3 inches (51 to 76\u00a0mm) in length.[1] The species is very sensitive to pollution and silt, staying in clean, pollution-free water. The rainbow darter is easily identified by three dark spots on the back, and blue and orange in the dorsal and anal fins."
+    },
+    "TNG": {
+        "code": "TNG",
+        "common_name": "tubenose goby",
+        "scientific_name": "Proterorhinus marmoratus",
+        "game_fish": false,
+        "species_group": "Gobiidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Proterorhinus_marmoratus_6.jpg/220px-Proterorhinus_marmoratus_6.jpg",
+        "description": "Proterorhinus is a genus of fishes, known as the tubenose gobies. These gobiid fish are native to Eurasia where they occur in the region of the Caspian and Black seas, inhabiting marine, brackish and fresh waters. The species Proterorhinus semilunaris (previously referred to as P. marmoratus) was introduced to the St. Clair River in Michigan during the late 1990s.[1] Until recently,[when?] the genus was considered monotypic, comprising only the tubenose goby (Proterorhinus marmoratus). Following molecular and further morphological investigations it has been split into several taxa, with distinct distributions in marine vs. fresh waters and in the Black Sea vs. Caspian Sea basins.[1]"
+    },
+    "SHD": {
+        "code": "SHD",
+        "common_name": "slenderhead darter",
+        "scientific_name": "Percina phoxocephala",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Status_iucn3.1_LC.svg/220px-Status_iucn3.1_LC.svg.png",
+        "description": "Etheostoma phoxocephalum Nelson, 1876"
+    },
+    "MUE": {
+        "code": "MUE",
+        "common_name": "muskellunge",
+        "scientific_name": "Esox masquinongy",
+        "game_fish": true,
+        "species_group": "Esocidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Esox_masquinongyeditcrop.jpg/220px-Esox_masquinongyeditcrop.jpg",
+        "description": "The muskellunge (Esox masquinongy), often shortened to muskie, musky, ski, or lunge, is a species of large freshwater predatory fish native to North America. It is the largest member of the pike family, Esocidae."
+    },
+    "SHC": {
+        "code": "SHC",
+        "common_name": "shoal chub",
+        "scientific_name": "Macrhybopsis hyostoma",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Macrhybopsis_hyostoma_FWS_20932.jpg/220px-Macrhybopsis_hyostoma_FWS_20932.jpg",
+        "description": "Nocomis hyostomus"
+    },
+    "STM": {
+        "code": "STM",
+        "common_name": "starhead topminnow",
+        "scientific_name": "Fundulus dispar",
+        "game_fish": false,
+        "species_group": "Fundulidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fundulus_dispar_%2846858198272%29.jpg/220px-Fundulus_dispar_%2846858198272%29.jpg",
+        "description": "Zygonectes dispar Agassiz, 1854"
+    },
+    "NBL": {
+        "code": "NBL",
+        "common_name": "northern brook lamprey",
+        "scientific_name": "Ichthyomyzon fossor",
+        "game_fish": false,
+        "species_group": "Petromyzontidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ichthyomyzon_fossor.jpg/220px-Ichthyomyzon_fossor.jpg",
+        "description": "The northern brook lamprey (Ichthyomyzon fossor) is a freshwater fish in the family Petromyzontidae. It is closely related to the silver lamprey (I. unicuspis) and may represent an ecotype of a single species with I. unicuspis.[4]"
+    },
+    "FCF": {
+        "code": "FCF",
+        "common_name": "flathead catfish",
+        "scientific_name": "Pylodictis olivaris",
+        "game_fish": true,
+        "species_group": "Ictaluridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pylodictis_olivaris.jpg/220px-Pylodictis_olivaris.jpg",
+        "description": "The flathead catfish (Pylodictis olivaris), also called by several common names including mudcat or shovelhead cat, is a large species of North American freshwater catfish in the family Ictaluridae. It is the only species of the genus Pylodictis. Ranging from the lower Great Lakes region to northern Mexico, it has been widely introduced and is an invasive species in some areas. The closest living relative of the flathead catfish is the much smaller widemouth blindcat, Satan eurystomus, a cavefish.[2]"
+    },
+    "BCS": {
+        "code": "BCS",
+        "common_name": "blackchin shiner",
+        "scientific_name": "Notropis heterodon",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Notropis_heterodon.jpg/220px-Notropis_heterodon.jpg",
+        "description": "The blackchin shiner (Notropis heterodon) is an abundant North American species of freshwater fish from the family Cyprinidae. Described by Edward Drinker Cope in 1865, it is not a well-known species. It is a close relative of the blacknose shiner. Chiefly occurring now in the Great Lakes and occasionally in upper Mississippi River drainages, the blackchin once ranged commonly as far south as Illinois and Ohio. This fish resides over sandy bottoms in cool waters that provide a lot of cover for the small minnow. Omnivorous, it eats worms and small arthropods as well as plant material. Blackchin shiners are unique because of their anatomical features, such as the black coloring, the incomplete lateral line, and a distinctive dental arrangement."
+    },
+    "CIS": {
+        "code": "CIS",
+        "common_name": "cisco species",
+        "scientific_name": "Leucichthys sp.",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "OTS": {
+        "code": "OTS",
+        "common_name": "suckers",
+        "scientific_name": "Catostomus sp.",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "STC": {
+        "code": "STC",
+        "common_name": "stonecat",
+        "scientific_name": "Noturus flavus",
+        "game_fish": false,
+        "species_group": "Ictaluridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Noturus_flavus.jpg/220px-Noturus_flavus.jpg",
+        "description": "Noturus flavus, the stonecat, is a North American freshwater catfish of the family Ictaluridae. The common name is due to its habit of hiding near or under stones in fast-moving water.[2]"
+    },
+    "STB": {
+        "code": "STB",
+        "common_name": "striped bass",
+        "scientific_name": "Morone saxatilis",
+        "game_fish": false,
+        "species_group": "Moronidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Morone_saxatilis_SI2.jpg/220px-Morone_saxatilis_SI2.jpg",
+        "description": "The striped bass (Morone saxatilis), also called the Atlantic striped bass, striper, linesider, rock, or rockfish, is an anadromous perciform fish of the family Moronidae found primarily along the Atlantic coast of North America. It has also been widely introduced into inland recreational fisheries across the United States. Striped bass found in the Gulf of Mexico are a separate strain referred to as Gulf Coast striped bass.[2]"
+    },
+    "LNS": {
+        "code": "LNS",
+        "common_name": "longnose sucker",
+        "scientific_name": "Catostomus catostomus",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Longnose_sucker.jpg/220px-Longnose_sucker.jpg",
+        "description": "The longnose sucker (Catostomus catostomus) is a species of cypriniform freshwater fish in the family Catostomidae. It is native to North America from the northern United States to the top of the continent. It is also found in Russia in rivers of eastern Siberia, and this one of only two species of sucker native to Asia (the other is the Chinese Myxocyprinus asiaticus)."
+    },
+    "OTM": {
+        "code": "OTM",
+        "common_name": "minnows",
+        "scientific_name": "Small Cyprinids",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pimephales_promelas.jpg/220px-Pimephales_promelas.jpg",
+        "description": "See text"
+    },
+    "MTS": {
+        "code": "MTS",
+        "common_name": "mottled sculpin",
+        "scientific_name": "Cottus bairdii",
+        "game_fish": false,
+        "species_group": "Cottidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mottled_Sculpin_1.jpg/220px-Mottled_Sculpin_1.jpg",
+        "description": "The mottled sculpin (Cottus bairdii) is a species of freshwater ray-finned fish belonging to the family Cottidae, the typical sculpins. This species has a wide but scattered North American distribution."
+    },
+    "BCF": {
+        "code": "BCF",
+        "common_name": "blue catfish",
+        "scientific_name": "Ictalurus furcatus",
+        "game_fish": false,
+        "species_group": "Ictaluridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Bluecat5A.jpg/220px-Bluecat5A.jpg",
+        "description": "The blue catfish (Ictalurus furcatus) is a large species of North American catfish, reaching a length of 65\u00a0in (170\u00a0cm) and a weight of 143\u00a0lb (65\u00a0kg).[4] The continent's largest catfish, it can live to 20 years, with a typical fish being between 25\u201346\u00a0in (64\u2013117\u00a0cm) and 30\u201370\u00a0lb (14\u201332\u00a0kg). Native distribution is primarily in the Mississippi River and Louisiana drainage systems, including the Missouri, Ohio, Tennessee, and Arkansas Rivers, the Des Moines River in south-central Iowa, the Rio Grande, and south along the Gulf Coast to Belize and Guatemala.[5]"
+    },
+    "GHS": {
+        "code": "GHS",
+        "common_name": "ghost shiner",
+        "scientific_name": "Notropis buchanani",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Notropis_buchanani.jpg/220px-Notropis_buchanani.jpg",
+        "description": "The ghost shiner (Notropis buchanani) is a North American species of freshwater fish of the family Cyprinidae. It is generally characterized as being a small bodied, silvery and fusiform shaped cyprinid.[2] Notropis buchanani is morphologically similar to and often mistaken for the Mimic Shiner (Notropis volucellus), which is evident by its former classification as a subspecies of Notropis volucellus.[3]"
+    },
+    "LNG": {
+        "code": "LNG",
+        "common_name": "longnose gar",
+        "scientific_name": "Lepisosteus osseus",
+        "game_fish": false,
+        "species_group": "Lepisosteidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Longnose_gar%2C_Boston_Aquarium.JPG/220px-Longnose_gar%2C_Boston_Aquarium.JPG",
+        "description": "The longnose gar (Lepisosteus osseus), also known as longnose garpike or billy gar, is a ray-finned fish in the family Lepisosteidae. The genus may have been present in North America for about 100 million years.[4] References are made to gars being a primitive group of bony fish because they have retained some primitive features, such as a spiral valve intestine, but they are not primitive in the sense of not being fully developed."
+    },
+    "WSD": {
+        "code": "WSD",
+        "common_name": "western sand darter",
+        "scientific_name": "Ammocrypta clara",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Picture_of_the_western_sand_darter.jpg/220px-Picture_of_the_western_sand_darter.jpg",
+        "description": "The western sand darter (Ammocrypta clara) is a species of freshwater ray-finned fish, a darter from the subfamily Etheostomatinae, part of the family Percidae, which also contains the perches, ruffes and pikeperches. It is native to the central United States."
+    },
+    "LND": {
+        "code": "LND",
+        "common_name": "longnose dace",
+        "scientific_name": "Rhinichthys cataractae",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rhinichthys_cataractae_-_Langnasen-Wei%C3%9Ffisch_93587939.jpg/220px-Rhinichthys_cataractae_-_Langnasen-Wei%C3%9Ffisch_93587939.jpg",
+        "description": "The longnose dace (Rhinichthys cataractae) is a freshwater minnow native to North America. Rhinicthys means snout fish (reference to the long snout) and cataractae means of the cataract (first taken from Niagara Falls). Longnose dace are small, typically less than 100\u00a0mm and characterized by their fleshy snout that protrudes past the mouth. They are well adapted for living on the bottom of fast-flowing streams among stones. Longnose dace eat algae and aquatic insects and are important forage minnows for larger predatory fish."
+    },
+    "TME": {
+        "code": "TME",
+        "common_name": "tiger muskellunge",
+        "scientific_name": "Esox lucius X E. masquinongy",
+        "game_fish": true,
+        "species_group": "Esocidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Tiger_muskellunge_%28Duane_Raver%29.png/220px-Tiger_muskellunge_%28Duane_Raver%29.png",
+        "description": "The tiger muskellunge (Esox masquinongy \u00d7 lucius or Esox lucius \u00d7 masquinongy),[1] commonly called tiger muskie, is a carnivorous fish, and is the usually sterile, hybrid offspring of the true muskellunge (Esox masquinongy) and the northern pike (Esox lucius). It lives in fresh water and its range extends to Canada, the Northeast, and the Midwest United States. It grows quickly; in one study, tiger muskie grew 1.5 times as fast as muskellunge.[2] Like other hybrid species, tiger muskie are said to have \"hybrid vigor,\" meaning they grow faster and stronger than the parent fish, and are also less susceptible to disease. Trophy specimens weigh about 14\u00a0kg (30\u00a0lb). Its main diet is fish and small birds.[3] The tiger muskie and the muskie are called the fish of 10,000 casts due to the challenge involved in catching them.[4]"
+    },
+    "BOF": {
+        "code": "BOF",
+        "common_name": "bowfin (dogfish)",
+        "scientific_name": "Amia calva",
+        "game_fish": false,
+        "species_group": "Amiidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "PAH": {
+        "code": "PAH",
+        "common_name": "paddlefish",
+        "scientific_name": "Polyodon spathula",
+        "game_fish": true,
+        "species_group": "Polyodontidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Paddlefish_Polyodon_spathula.jpg/220px-Paddlefish_Polyodon_spathula.jpg",
+        "description": "Recent genera"
+    },
+    "LAT": {
+        "code": "LAT",
+        "common_name": "lake trout",
+        "scientific_name": "Salvelinus namaycush namaycush",
+        "game_fish": true,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lake_trout_fishes_salvelinus_namaycush.jpg/220px-Lake_trout_fishes_salvelinus_namaycush.jpg",
+        "description": "The lake trout (Salvelinus namaycush)[2] is a freshwater char living mainly in lakes in northern North America. Other names for it include mackinaw, namaycush, lake char (or charr), touladi, togue, laker, and grey trout. In Lake Superior, it can also be variously known as siscowet, paperbelly and lean. The lake trout is prized both as a game fish and as a food fish. Those caught with dark coloration may be called mud hens.[3][better\u00a0source\u00a0needed]"
+    },
+    "JND": {
+        "code": "JND",
+        "common_name": "Johnny darter",
+        "scientific_name": "Etheostoma nigrum",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Johnny_Darter_%28Etheostoma_nigrum%29.jpg/220px-Johnny_Darter_%28Etheostoma_nigrum%29.jpg",
+        "description": "The johnny darter (Etheostoma nigrum) is a species of freshwater ray-finned fish, a darter from the subfamily Etheostomatinae, part of the family Percidae, which also contains the perches, ruffes and pikeperches. It is native to shallow waters throughout North America east of the Rocky Mountains."
+    },
+    "PMK": {
+        "code": "PMK",
+        "common_name": "pumpkinseed",
+        "scientific_name": "Lepomis gibbosus",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Lepomis_gibbosus_PAQ.jpg/220px-Lepomis_gibbosus_PAQ.jpg",
+        "description": "The pumpkinseed (Lepomis gibbosus), also referred to as sun perch,[4] pond perch, common sunfish, punkie, sunfish, sunny, and kivver, is a small to medium\u2013sized freshwater fish of the genus Lepomis (true sunfishes), from the sunfish family (Centrarchidae) in the order Centrarchiformes. It is endemic to eastern North America."
+    },
+    "CHS": {
+        "code": "CHS",
+        "common_name": "Chinook salmon",
+        "scientific_name": "Oncorhynchus tshawytscha",
+        "game_fish": true,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Chinook_Salmon_Adult_Male.jpg/220px-Chinook_Salmon_Adult_Male.jpg",
+        "description": "The Chinook salmon /\u0283\u026a\u02c8n\u028ak/ (Oncorhynchus tshawytscha) is the largest and most valuable species of Pacific salmon.[2] Its common name is derived from the Chinookan peoples. Other vernacular names for the species include king salmon, Quinnat salmon, Tsumen, spring salmon, chrome hog, Blackmouth, and Tyee salmon. The scientific species name is based on the Russian common name chavycha (\u0447\u0430\u0432\u044b\u0447\u0430)."
+    },
+    "OSS": {
+        "code": "OSS",
+        "common_name": "orangespotted sunfish",
+        "scientific_name": "Lepomis humilis",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Orangespottednctc.png/220px-Orangespottednctc.png",
+        "description": "Bryttus humilis Girard, 1858"
+    },
+    "SFS": {
+        "code": "SFS",
+        "common_name": "spotfin shiner",
+        "scientific_name": "Cyprinella spiloptera",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cyprinella_spiloptera.jpg/220px-Cyprinella_spiloptera.jpg",
+        "description": "The spotfin shiner (Cyprinella spiloptera) is a species of ray-finned fish in the family Cyprinidae. It is a small sized freshwater fish found abundantly in many watercourses of North America."
+    },
+    "CHL": {
+        "code": "CHL",
+        "common_name": "chestnut lamprey",
+        "scientific_name": "Ichthyomyzon castaneus",
+        "game_fish": false,
+        "species_group": "Petromyzontidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Chestnut_Lamprey.jpg/220px-Chestnut_Lamprey.jpg",
+        "description": "The chestnut lamprey (Ichthyomyzon castaneus) is a species of lamprey."
+    },
+    "BNT": {
+        "code": "BNT",
+        "common_name": "brown trout",
+        "scientific_name": "Salmo trutta",
+        "game_fish": true,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Salmo_trutta_Ozeaneum_Stralsund_HBP_2010-07-02.jpg/220px-Salmo_trutta_Ozeaneum_Stralsund_HBP_2010-07-02.jpg",
+        "description": "Salmo trutta morpha trutta\nSalmo trutta morpha fario\nSalmo trutta morpha lacustris"
+    },
+    "BNS": {
+        "code": "BNS",
+        "common_name": "blacknose shiner",
+        "scientific_name": "Notropis heterolepis",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Notropis_heterolepis.jpg/220px-Notropis_heterolepis.jpg",
+        "description": "The blacknose shiner (Notropis heterolepis) is a species of fish belonging to the family Leuciscidae."
+    },
+    "FND": {
+        "code": "FND",
+        "common_name": "finescale dace",
+        "scientific_name": "Phoxinus neogaeus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Chrosomus_neogaeus_206608892.jpg/220px-Chrosomus_neogaeus_206608892.jpg",
+        "description": "The finescale dace (Chrosomus neogaeus) is a species of freshwater fish in the family Cyprinidae of order Cypriniformes. It is native to the northern portions of Minnesota,[3] with relatively smaller populations in northern New York, Vermont, New Hampshire (where C. neogaeus is found in only Connecticut and Androscoggin River drainages north of the White Mountains), and Maine.[4]"
+    },
+    "BNM": {
+        "code": "BNM",
+        "common_name": "bluntnose minnow",
+        "scientific_name": "Pimephales notatus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Pimephales_notatus_-_Stumpfnasen-Zwergd%C3%B6bel_192957406.jpg/220px-Pimephales_notatus_-_Stumpfnasen-Zwergd%C3%B6bel_192957406.jpg",
+        "description": "The bluntnose minnow (Pimephales notatus) is a species of temperate freshwater fish belonging to the genus Pimephales of the cyprinid family. Its natural geographic range extends from the Great Lakes south along the Mississippi River basin to Louisiana, and east across the Midwestern United States to New York State. The bluntnose is very ubiquitous, and may be the most common freshwater fish in the Eastern U.S.[2]"
+    },
+    "ATS": {
+        "code": "ATS",
+        "common_name": "Atlantic salmon",
+        "scientific_name": "Salmo salar",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Salmo_salar.jpg/220px-Salmo_salar.jpg",
+        "description": "The Atlantic salmon (Salmo salar) is a species of ray-finned fish in the family Salmonidae. It is the third largest of the Salmonidae, behind Siberian taimen and Pacific Chinook salmon, growing up to a meter in length. Atlantic salmon are found in the northern Atlantic Ocean and in rivers that flow into it. Most populations are anadromous, hatching in streams and rivers but moving out to sea as they grow where they mature, after which the adults seasonally move upstream again to spawn.[2]"
+    },
+    "YEP": {
+        "code": "YEP",
+        "common_name": "yellow perch",
+        "scientific_name": "Perca flavescens",
+        "game_fish": true,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/YellowPerch.jpg/220px-YellowPerch.jpg",
+        "description": "The yellow perch (Perca flavescens), commonly referred to as perch, striped perch, American perch or preacher is a freshwater perciform fish native to much of North America. The yellow perch was described in 1814 by Samuel Latham Mitchill from New York. It is closely related, and morphologically similar to the European perch (Perca fluviatilis); and is sometimes considered a subspecies of its European counterpart.[4]"
+    },
+    "LMB": {
+        "code": "LMB",
+        "common_name": "largemouth bass",
+        "scientific_name": "Micropterus salmoides",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Largemouth.JPG/220px-Largemouth.JPG",
+        "description": "The largemouth bass (Micropterus nigricans) is a carnivorous, freshwater, ray-finned fish in the Centrarchidae (sunfish) family, native to the eastern and central United States, southeastern Canada and northern Mexico.[4][5][3] It is known by a variety of regional names, such as the widemouth bass, bigmouth bass, black bass, largie, Potter's fish, Florida bass or Florida largemouth, green bass, bucketmouth bass, green trout, growler[citation needed], Gilsdorf bass, Oswego bass, LMB, and southern largemouth and northern largemouth.[6]"
+    },
+    "PLS": {
+        "code": "PLS",
+        "common_name": "pallid shiner",
+        "scientific_name": "Hybopsis amnis",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hybopsis_amnis_Pallid_Shiner.jpg/220px-Hybopsis_amnis_Pallid_Shiner.jpg",
+        "description": "The pallid shiner (Hybopsis amnis) is a small freshwater minnow in the family Cyprinidae. Its synonym is Notropis amnis.[3] They are native to North America and can be found in the Mississippi watershed. The pallid shiner is considered a rare fish in its northern distribution but not in its southern distribution. The pallid shiner was first discovered in the early 1900s in the St. Croix River north of Taylors Falls, and its population has been declining since.[4] Little is known about their feeding and reproductive habits."
+    },
+    "DAR": {
+        "code": "DAR",
+        "common_name": "darters",
+        "scientific_name": "Etheostoma etc.",
+        "game_fish": false,
+        "species_group": "Percidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Anhingarufa1.JPG/220px-Anhingarufa1.JPG",
+        "description": "Anhinga anhinga\nAnhinga melanogaster\nAnhinga rufa\nAnhinga novaehollandiae\n(but see text)"
+    },
+    "TLC": {
+        "code": "TLC",
+        "common_name": "tullibee (cisco)",
+        "scientific_name": "Coregonus artedi",
+        "game_fish": false,
+        "species_group": "Salmonidae",
+        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "description": ""
+    },
+    "BND": {
+        "code": "BND",
+        "common_name": "western blacknose dace",
+        "scientific_name": "Rhinichthys obtusus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Western_Blacknose_Dace%2C_Guelph%2C_ON%2C_Canada_imported_from_iNaturalist_photo_36091681.jpg/220px-Western_Blacknose_Dace%2C_Guelph%2C_ON%2C_Canada_imported_from_iNaturalist_photo_36091681.jpg",
+        "description": "Rhinichthys meleagris Agassiz, 1854"
+    },
+    "SRD": {
+        "code": "SRD",
+        "common_name": "southern redbelly dace",
+        "scientific_name": "Phoxinus erythrogaster",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Southern_Red-Bellied_Dace.JPG/220px-Southern_Red-Bellied_Dace.JPG",
+        "description": "The southern redbelly dace (Chrosomus erythrogaster), is a North American species of temperate freshwater fish of the family Cyprinidae. The natural geographic range extends from Western New York to Minnesota, and south to Oklahoma, Arkansas, and Alabama.[2] This fish prefers flowing pools of creeks and streams.[2]"
+    },
+    "YEB": {
+        "code": "YEB",
+        "common_name": "yellow bullhead",
+        "scientific_name": "Ameiurus natalis",
+        "game_fish": false,
+        "species_group": "Ictaluridae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ameiurus_natalis.jpg/220px-Ameiurus_natalis.jpg",
+        "description": "The yellow bullhead (Ameiurus natalis) is a species of bullhead catfish, a ray-finned fish that lacks scales."
+    },
+    "TKS": {
+        "code": "TKS",
+        "common_name": "Topeka shiner",
+        "scientific_name": "Notropis topeka",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Topeka_shiner_%28Notropis_topeka%29.jpg/220px-Topeka_shiner_%28Notropis_topeka%29.jpg",
+        "description": "The Topeka shiner (Notropis topeka) is a North American species of cyprinid freshwater fish."
+    },
+    "BMS": {
+        "code": "BMS",
+        "common_name": "bigmouth shiner",
+        "scientific_name": "Notropis dorsalis",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bigmouth_shiner.jpg/220px-Bigmouth_shiner.jpg",
+        "description": "The bigmouth shiner (Notropis dorsalis), is one of the 324 fish species found in Tennessee. It is a common minnow species found in the midwest region, but found as far as the east coast.[2] There has been little information researched about this minnow outside of the general body plan and habitat. They are often found along with common shiner in streams."
+    },
+    "GSF": {
+        "code": "GSF",
+        "common_name": "green sunfish",
+        "scientific_name": "Lepomis cyanellus",
+        "game_fish": true,
+        "species_group": "Centrarchidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Lepomis_cyanellus_Raver.jpg/220px-Lepomis_cyanellus_Raver.jpg",
+        "description": "The green sunfish (Lepomis cyanellus) is a species of aggressive freshwater fish in the sunfish family (Centrarchidae) of order Centrarchiformes. The green sunfish does not always grow large enough to be an appealing target for anglers,[2] but it is kept as an aquarium fish by hobbyists.[3] They grow to be 3\u20136 inches (7.6\u201315.2\u00a0cm) long on average, but can achieve a length of 12 inches (30\u00a0cm).[4]"
+    },
+    "CSR": {
+        "code": "CSR",
+        "common_name": "central stoneroller",
+        "scientific_name": "Campostoma anomalum",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Campostoma_anomalum_%28S1018%29_%2814990370433%29.jpg/220px-Campostoma_anomalum_%28S1018%29_%2814990370433%29.jpg",
+        "description": "The central stoneroller, or Ohio stoneroller[2] (Campostoma anomalum), is a fish in the family Cyprinidae endemic to North America."
+    },
+    "SEL": {
+        "code": "SEL",
+        "common_name": "sea lamprey",
+        "scientific_name": "Petromyzon marinus",
+        "game_fish": false,
+        "species_group": "Petromyzontidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Petromyzon_marinus.001_-_Aquarium_Finisterrae.jpg/220px-Petromyzon_marinus.001_-_Aquarium_Finisterrae.jpg",
+        "description": "The sea lamprey (Petromyzon marinus) is a parasitic lamprey native to the Northern Hemisphere. It is sometimes referred to as the \"vampire fish\". In its original habitats, the sea lamprey coevolved with its hosts, and those hosts evolved a measure of resistance to the sea lampreys."
+    },
+    "ASV": {
+        "code": "ASV",
+        "common_name": "Atlantic silverside",
+        "scientific_name": "Menidia menidia",
+        "game_fish": false,
+        "species_group": "Atherinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Menidia_menidia_RR_08-11-19_0545_%2848555459552%29.jpg/220px-Menidia_menidia_RR_08-11-19_0545_%2848555459552%29.jpg",
+        "description": "The Atlantic silverside (Menidia menidia), also known as spearing in the northeastern United States, is a small species of fish that is one of the most abundant fish species present in estuarine habitats along the Atlantic coast of North America. [3] It is a common subject of scientific research because of its sensitivity to environmental changes. According to the IUCN Red List, this species is stable and has no major threats to its populations, so it is marked Least Concern.\u00a0[4] Despite being an extremely common species, most individuals die after one year once they migrate offshore, but a few will make it to two years. [3]\u00a0 The fish is mostly translucent, with white coloring on the anterior end of the body and brown speckling on the top of the head, posterior scales on the back, and near the jaw. A distinctive silver band runs the length of the fish, next to the lateral line. Their mouths are large compared to other Menidia species, and their first dorsal fins are placed more posteriorly than other silversides. [5][6]"
+    },
+    "PKS": {
+        "code": "PKS",
+        "common_name": "pink salmon",
+        "scientific_name": "Oncorhynchus gorbuscha",
+        "game_fish": true,
+        "species_group": "Salmonidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Humpback_Salmon_Adult_Male.jpg/220px-Humpback_Salmon_Adult_Male.jpg",
+        "description": "Pink salmon or humpback salmon (Oncorhynchus gorbuscha) is a species of euryhaline ray-finned fish in the family Salmonidae. It is the type species of the genus Oncorhynchus (Pacific salmon), and is the smallest and most abundant of the seven officially recognized species of salmon. The species' scientific name is based on the Russian common name for this species gorb\u00fa\u0161a (\u0433\u043e\u0440\u0431\u0443\u0448\u0430), which literally means humpie."
+    },
+    "CSH": {
+        "code": "CSH",
+        "common_name": "common shiner",
+        "scientific_name": "Luxilus cornutus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Luxilus_cornutus_302962875.jpg/220px-Luxilus_cornutus_302962875.jpg",
+        "description": "The common shiner (Luxilus cornutus) is a freshwater fish of the family Cyprinidae, found in North America. It ranges in length between 4 and 6 inches (10 and 15\u00a0cm), although they can reach lengths of up to 8 inches (20\u00a0cm).[2]"
+    },
+    "WDS": {
+        "code": "WDS",
+        "common_name": "weed shiner",
+        "scientific_name": "Notropis texanus",
+        "game_fish": false,
+        "species_group": "Cyprinidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FMIB_40137_Notropis_nux_Evermann_Type_Neches_River%2C_Palestine%2C_Texas.jpeg/220px-FMIB_40137_Notropis_nux_Evermann_Type_Neches_River%2C_Palestine%2C_Texas.jpeg",
+        "description": "The weed shiner (Notropis texanus) is a North American species of freshwater fish in the cyprinid genus Notropis.[1] Prior to 1958, this species was named Notropis roseus.[2]"
+    },
+    "GRR": {
+        "code": "GRR",
+        "common_name": "greater redhorse",
+        "scientific_name": "Moxostoma valenciennesi",
+        "game_fish": false,
+        "species_group": "Catostomidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Moxostoma_valenciennesi.jpg/220px-Moxostoma_valenciennesi.jpg",
+        "description": "The greater redhorse (Moxostoma valenciennesi) is a species of freshwater fish found in northeastern North America. It is the largest member of the genus Moxostoma, with a maximum length of 80\u00a0cm (31.5\u00a0in). The greater redhorse is long lived with a maximum reported age of 27 years.[2]"
+    }
+}
