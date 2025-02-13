@@ -10,34 +10,38 @@ import (
 )
 
 // ✅ Setup API routes
-func SetupRoutes(router *gin.Engine, fishController *controller.FishSurveyController) {
+func SetupRoutes(router *gin.Engine, fishController *controller.FishSurveyController, countyController *controller.CountyController) {
 
 	router.GET("/data", func(c *gin.Context) {
-		species := c.Query("species")
-		minYear := c.Query("minYear")
-		counties := c.QueryArray("county")
-		sortBy := c.Query("sort_by")
-		order := c.Query("order")
-		limitStr := c.DefaultQuery("limit", "50")
-		pageStr := c.DefaultQuery("page", "1")
+    species := c.Query("species")
+    minYear := c.Query("minYear")
+    maxYear := c.Query("maxYear") // New query parameter for max year
+    counties := c.QueryArray("county")
+    sortBy := c.Query("sort_by")
+    order := c.Query("order")
+    search := c.Query("search") // New search parameter
+    limitStr := c.DefaultQuery("limit", "50")
+    pageStr := c.DefaultQuery("page", "1")
+    
+    // New query parameter for game fish
+    gameFishStr := c.DefaultQuery("game_fish", "false")
+    gameFishOnly, _ := strconv.ParseBool(gameFishStr)
 
-		// Convert to integers
-		limit, _ := strconv.Atoi(limitStr)
-		page, _ := strconv.Atoi(pageStr)
+    limit, _ := strconv.Atoi(limitStr)
+    page, _ := strconv.Atoi(pageStr)
 
-		// ✅ Get paginated, sorted data
-		filteredData := fishController.FilterAndSortData(species, minYear, counties, sortBy, order, limit, page)
+    // Pass the new parameters to the controller.
+    filteredData := fishController.FilterAndSortData(species, minYear, maxYear, counties, sortBy, order, gameFishOnly, search, limit, page)
 
-		// ✅ Return response
-		c.JSON(http.StatusOK, gin.H{
-			"data":      filteredData["data"],
-			"limit":     limit,
-			"page":      page,
-			"prev_page": filteredData["prev_page"],
-			"next_page": filteredData["next_page"],
-			"total":     filteredData["total"],
-		})
-	})
+    c.JSON(http.StatusOK, gin.H{
+        "data":      filteredData["data"],
+        "limit":     limit,
+        "page":      page,
+        "prev_page": filteredData["prev_page"],
+        "next_page": filteredData["next_page"],
+        "total":     filteredData["total"],
+    })
+})
 
 	router.GET("/graph", func(c *gin.Context) {
 		dowNumber := c.Query("dow")
@@ -60,7 +64,15 @@ func SetupRoutes(router *gin.Engine, fishController *controller.FishSurveyContro
 
 	router.GET("/counties", func(c *gin.Context) {
 		c.JSON(http.StatusOK, gin.H{
-			"data": controller.GetAllCounties(),
+			"data": countyController.GetCounties(),
 		})
 	})
+
+	// Add this new route to SetupRoutes in api_routes.go
+	router.GET("/species", func(c *gin.Context) {
+		speciesList := fishController.GetAllSpecies()
+		c.JSON(http.StatusOK, gin.H{
+			"data": speciesList,
+	})
+})
 }

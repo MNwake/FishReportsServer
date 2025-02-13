@@ -29,11 +29,15 @@ type LengthData struct {
 	FishCount     []FishCount `json:"fishCount"` // 🔄 Fixed to accept an array of FishCount
 }
 
+
 type Survey struct {
 	SurveyID           string                 `json:"surveyID"`
 	SurveyDate         string                 `json:"surveyDate"`
 	FishCatchSummaries []FishCatchSummary     `json:"fishCatchSummaries"`
+	Narrative          string                 `json:"narrative"`  // <-- New narrative field
 	Lengths            map[string]*LengthData `json:"lengths"`
+	SurveyType 		   string				  `json:"surveyType"`
+	SurveySubType	   string				  `json:"suveySubType"`
 }
 
 type FishCatchSummary struct {
@@ -61,13 +65,14 @@ type FishSurveyModel struct {
 
 // County struct represents the county data.
 type County struct {
-	CountyName  string  `json:"county_name"`
-	FIPSCode    string  `json:"fips_code"`
-	CountySeat  string  `json:"county_seat"`
-	Established int     `json:"established"`
-	Origin      string  `json:"origin"`
-	Etymology   string  `json:"etymology"`
-	Population  int     `json:"population"`
-	AreaSqMiles float64 `json:"area_sq_miles"`
-	MapImageURL string  `json:"map_image_url"`
+	CountyName  string   `json:"county_name"`
+	FIPSCode    string   `json:"fips_code"`
+	CountySeat  string   `json:"county_seat"`
+	Established int      `json:"established"`
+	Origin      string   `json:"origin"`
+	Etymology   string   `json:"etymology"`
+	Population  int      `json:"population"`
+	AreaSqMiles float64  `json:"area_sq_miles"`
+	MapImageURL string   `json:"map_image_url"`
+	Lakes		[]string `json:"lakes,omitempty"`
 }

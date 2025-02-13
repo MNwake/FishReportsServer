@@ -15,19 +15,18 @@ import (
 // ✅ Load Counties from JSON File
 var counties []model.County
 
-func LoadCounties(filePath string) error {
+// LoadCounties reads the counties JSON file and returns the slice of counties.
+func LoadCounties(filePath string) ([]model.County, error) {
+	var counties []model.County
 	file, err := os.ReadFile(filePath)
 	if err != nil {
-		return fmt.Errorf("failed to read county data file: %w", err)
+		return nil, fmt.Errorf("failed to read county data file: %w", err)
 	}
-
 	err = json.Unmarshal(file, &counties)
 	if err != nil {
-		return fmt.Errorf("failed to parse county JSON: %w", err)
+		return nil, fmt.Errorf("failed to parse county JSON: %w", err)
 	}
-
-	log.Printf("✅ Loaded %d counties from %s\n", len(counties), filePath)
-	return nil
+	return counties, nil
 }
 
 // ✅ Load Fish Survey Data
