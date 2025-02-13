@@ -13,10 +13,12 @@ import (
 func SetupRoutes(router *gin.Engine, fishController *controller.FishSurveyController, countyController *controller.CountyController) {
 
 	router.GET("/data", func(c *gin.Context) {
-    species := c.Query("species")
+    // Allow multiple species names.
+    species := c.QueryArray("species")
     minYear := c.Query("minYear")
     maxYear := c.Query("maxYear") // New query parameter for max year
     counties := c.QueryArray("county")
+    lakes := c.QueryArray("lake") // New: allow multiple lakes
     sortBy := c.Query("sort_by")
     order := c.Query("order")
     search := c.Query("search") // New search parameter
@@ -30,8 +32,11 @@ func SetupRoutes(router *gin.Engine, fishController *controller.FishSurveyContro
     limit, _ := strconv.Atoi(limitStr)
     page, _ := strconv.Atoi(pageStr)
 
-    // Pass the new parameters to the controller.
-    filteredData := fishController.FilterAndSortData(species, minYear, maxYear, counties, sortBy, order, gameFishOnly, search, limit, page)
+    // Pass the new parameters (species is now a slice and lakes is added)
+    filteredData := fishController.FilterAndSortData(
+        species, minYear, maxYear, counties, lakes,
+        sortBy, order, gameFishOnly, search, limit, page,
+    )
 
     c.JSON(http.StatusOK, gin.H{
         "data":      filteredData["data"],

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fishreports/controller"
 	"fishreports/model"
+	"fishreports/controller"
 	"fishreports/view"
 
 	"log"

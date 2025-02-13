@@ -2,7 +2,7 @@ package controller
 
 import (
 	"fishreports/model"
-
+	"fishreports/utils"
 	"sort"
 	"strconv"
 	"strings"
@@ -32,70 +32,76 @@ func (c *FishSurveyController) NormalizeSpecies(commonName string) string {
 
 // FilterAndSortData is the entry point for filtering, sorting, and paginating fish survey data.
 func (c *FishSurveyController) FilterAndSortData(
-	species, minYear, maxYear string,
-	counties []string,
-	sortBy, order string,
-	gameFishOnly bool,
-	search string,
-	limit, page int,
+    species []string, // now a slice of species names
+    minYear, maxYear string,
+    counties []string,
+    lakes []string, // new parameter for lakes
+    sortBy, order string,
+    gameFishOnly bool,
+    search string,
+    limit, page int,
 ) map[string]interface{} {
-	var result []map[string]interface{}
+    var result []map[string]interface{}
 
-	countySet := buildCountySet(counties)
-	minYearInt := parseMinYear(minYear)
-	maxYearInt := 0
-	if maxYear != "" {
-		maxYearInt, _ = strconv.Atoi(maxYear)
-	}
-	speciesAbbr := ""
-	if species != "" {
-		speciesAbbr = c.NormalizeSpecies(species)
-	}
+    // Build lookup sets for counties and lakes (case-insensitive)
+	countySet := utils.BuildLowercaseSet(counties)
+	lakeSet := utils.BuildLowercaseSet(lakes)
 
-	// Iterate through fish data.
-	for _, fishDataList := range c.Model.FishDataByCounty {
-		for _, data := range fishDataList {
-			if len(data.Result.Surveys) == 0 {
-				continue
-			}
-			// Skip data for counties not in the filter.
-			if len(counties) > 0 && !countySet[strings.ToLower(data.Result.CountyName)] {
-				continue
-			}
-			for _, survey := range data.Result.Surveys {
-				// Process each survey with the new parameters.
-				rows := c.processSurvey(data, survey, speciesAbbr, minYearInt, maxYearInt, gameFishOnly, search)
-				result = append(result, rows...)
-			}
-		}
-	}
+    minYearInt := parseMinYear(minYear)
+    maxYearInt := 0
+    if maxYear != "" {
+        maxYearInt, _ = strconv.Atoi(maxYear)
+    }
 
-	// Set default sort options if not provided.
-	if sortBy == "" {
-		sortBy = "survey_date"
-		order = "desc"
-	}
-	sortRows(result, sortBy, order)
-	paginatedData, prevPage, nextPage := paginate(result, limit, page)
+    // Create a set of normalized species abbreviations.
+    speciesSet := make(map[string]bool)
+    if len(species) > 0 {
+        for _, sp := range species {
+            abbr := c.NormalizeSpecies(sp)
+            if abbr != "" {
+                speciesSet[abbr] = true
+            }
+        }
+    }
 
-	return map[string]interface{}{
-		"data":      paginatedData,
-		"limit":     limit,
-		"page":      page,
-		"prev_page": prevPage,
-		"next_page": nextPage,
-		"total":     len(result),
-	}
+   for _, fishDataList := range c.Model.FishDataByCounty {
+    // Optionally filter by county (assuming county is consistent for all entries in the group)
+    if len(counties) > 0 && !countySet[strings.ToLower(fishDataList[0].Result.CountyName)] {
+        continue
+    }
+    for _, data := range fishDataList {
+        // Now filter by lake for each data entry.
+        if len(lakes) > 0 && !lakeSet[strings.ToLower(data.Result.LakeName)] {
+            continue
+        }
+        if len(data.Result.Surveys) == 0 {
+            continue
+        }
+        for _, survey := range data.Result.Surveys {
+            rows := c.processSurvey(data, survey, speciesSet, minYearInt, maxYearInt, gameFishOnly, search)
+            result = append(result, rows...)
+        }
+    }
 }
 
-// buildCountySet converts a slice of county names to a lower-case map for quick lookup.
-func buildCountySet(counties []string) map[string]bool {
-	set := make(map[string]bool)
-	for _, county := range counties {
-		set[strings.ToLower(county)] = true
-	}
-	return set
+    // Set default sort options if not provided.
+    if sortBy == "" {
+        sortBy = "survey_date"
+        order = "desc"
+    }
+    sortRows(result, sortBy, order)
+    paginatedData, prevPage, nextPage := paginate(result, limit, page)
+
+    return map[string]interface{}{
+        "data":      paginatedData,
+        "limit":     limit,
+        "page":      page,
+        "prev_page": prevPage,
+        "next_page": nextPage,
+        "total":     len(result),
+    }
 }
+
 
 // parseMinYear converts the minYear string into an integer.
 func parseMinYear(minYear string) int {
@@ -107,91 +113,91 @@ func parseMinYear(minYear string) int {
 }
 
 func (c *FishSurveyController) processSurvey(
-	data model.FishData,
-	survey model.Survey,
-	speciesAbbr string,
-	minYearInt, maxYearInt int,
-	gameFishOnly bool,
-	search string,
+    data model.FishData,
+    survey model.Survey,
+    speciesSet map[string]bool, // updated parameter
+    minYearInt, maxYearInt int,
+    gameFishOnly bool,
+    search string,
 ) []map[string]interface{} {
-	var rows []map[string]interface{}
-	surveyYear := 0
-	if len(survey.SurveyDate) >= 4 {
-		surveyYear, _ = strconv.Atoi(survey.SurveyDate[:4])
-	}
-	// Only include surveys with surveyYear >= minYearInt.
-	if minYearInt > 0 && surveyYear < minYearInt {
-		return rows
-	}
-	// And if maxYearInt is provided, only include surveys with surveyYear <= maxYearInt.
-	if maxYearInt > 0 && surveyYear > maxYearInt {
-		return rows
-	}
+    var rows []map[string]interface{}
+    surveyYear := 0
+    if len(survey.SurveyDate) >= 4 {
+        surveyYear, _ = strconv.Atoi(survey.SurveyDate[:4])
+    }
+    // Only include surveys with surveyYear >= minYearInt.
+    if minYearInt > 0 && surveyYear < minYearInt {
+        return rows
+    }
+    // And if maxYearInt is provided, only include surveys with surveyYear <= maxYearInt.
+    if maxYearInt > 0 && surveyYear > maxYearInt {
+        return rows
+    }
 
-	for abbreviation, lengthData := range survey.Lengths {
-		// Ensure species is set.
-		if lengthData.Species == nil {
-			if speciesObj, exists := c.Model.SpeciesMap[abbreviation]; exists {
-				lengthData.Species = &speciesObj
-			} else {
-				continue
-			}
-		}
-		// If gameFishOnly is true, skip non-game fish.
-		if gameFishOnly && !lengthData.Species.GameFish {
-			continue
-		}
-		// Skip if species filter is applied and doesn't match.
-		if speciesAbbr != "" && abbreviation != speciesAbbr {
-			continue
-		}
+    for abbreviation, lengthData := range survey.Lengths {
+        // Ensure species is set.
+        if lengthData.Species == nil {
+            if speciesObj, exists := c.Model.SpeciesMap[abbreviation]; exists {
+                lengthData.Species = &speciesObj
+            } else {
+                continue
+            }
+        }
+        // If gameFishOnly is true, skip non-game fish.
+        if gameFishOnly && !lengthData.Species.GameFish {
+            continue
+        }
+        // If a species filter is applied, skip species not in the set.
+        if len(speciesSet) > 0 && !speciesSet[abbreviation] {
+            continue
+        }
 
-		imageURL := ""
-		if lengthData.Species != nil {
-			imageURL = lengthData.Species.ImageURL
-		}
+        imageURL := ""
+        if lengthData.Species != nil {
+            imageURL = lengthData.Species.ImageURL
+        }
 
-		// Build the row.
-		row := map[string]interface{}{
-			"surveyID":        survey.SurveyID,
-			"dow_number":      data.Result.DOWNumber,
-			"survey_type":     survey.SurveyType,
-			"survey_sub_type": survey.SurveySubType,
-			"county_name":     data.Result.CountyName,
-			"lake_name":       data.Result.LakeName,
-			"survey_date":     survey.SurveyDate,
-			"species_name":    lengthData.Species.CommonName,
-			"image_url":       imageURL,
-			"narrative":       survey.Narrative,
-			"min_length":      lengthData.MinimumLength,
-			"max_length":      lengthData.MaximumLength,
-			"total_catch":     0,
-		}
+        // Build the row.
+        row := map[string]interface{}{
+            "surveyID":        survey.SurveyID,
+            "dow_number":      data.Result.DOWNumber,
+            "survey_type":     survey.SurveyType,
+            "survey_sub_type": survey.SurveySubType,
+            "county_name":     data.Result.CountyName,
+            "lake_name":       data.Result.LakeName,
+            "survey_date":     survey.SurveyDate,
+            "species_name":    lengthData.Species.CommonName,
+            "image_url":       imageURL,
+            "narrative":       survey.Narrative,
+            "min_length":      lengthData.MinimumLength,
+            "max_length":      lengthData.MaximumLength,
+            "total_catch":     0,
+        }
 
-		// Calculate total catch.
-		totalCatch := 0
-		for _, summary := range survey.FishCatchSummaries {
-			if summary.Species != nil && *summary.Species == abbreviation {
-				if summary.TotalCatch != nil {
-					totalCatch += *summary.TotalCatch
-				}
-			}
-		}
-		row["total_catch"] = totalCatch
+        // Calculate total catch.
+        totalCatch := 0
+        for _, summary := range survey.FishCatchSummaries {
+            if summary.Species != nil && *summary.Species == abbreviation {
+                if summary.TotalCatch != nil {
+                    totalCatch += *summary.TotalCatch
+                }
+            }
+        }
+        row["total_catch"] = totalCatch
 
-		// Apply search filter if provided.
-		if search != "" {
-			lowerSearch := strings.ToLower(search)
-			if !(strings.Contains(strings.ToLower(row["species_name"].(string)), lowerSearch) ||
-				strings.Contains(strings.ToLower(row["county_name"].(string)), lowerSearch) ||
-				strings.Contains(strings.ToLower(row["lake_name"].(string)), lowerSearch)) {
-				continue
-			}
-		}
+        // Apply search filter if provided.
+        if search != "" {
+            lowerSearch := strings.ToLower(search)
+            if !(strings.Contains(strings.ToLower(row["species_name"].(string)), lowerSearch) ||
+                strings.Contains(strings.ToLower(row["county_name"].(string)), lowerSearch) ||
+                strings.Contains(strings.ToLower(row["lake_name"].(string)), lowerSearch)) {
+                continue
+            }
+        }
 
-		rows = append(rows, row)
-	}
-	return rows
+        rows = append(rows, row)
+    }
+    return rows
 }
 
 // sortRows sorts the rows based on the provided field and order.
