@@ -4,7 +4,6 @@ import (
 	"fishreports/model"
 	"fishreports/controller"
 	"fishreports/view"
-
 	"log"
 
 	"github.com/gin-gonic/gin"
@@ -14,10 +13,17 @@ func main() {
 	// Initialize the model.
 	m := &model.FishSurveyModel{}
 
-	// Load counties.
+	// Declare a local variable for counties.
+	var counties []model.County
+
 	counties, err := controller.LoadCounties("data/minnesota_counties.json")
 	if err != nil {
-		log.Fatalf("Error loading county data: %v", err)
+		log.Fatalf("Error loading counties: %v", err)
+	}
+	controller.Counties = counties 
+
+	for _, county := range counties {
+		log.Printf("Loaded county normalized: '%s' (original: '%s', ID: %s)", controller.NormalizeCountyName(county.CountyName), county.CountyName, county.ID)
 	}
 
 	// Load fish survey data.
@@ -37,14 +43,12 @@ func main() {
 
 	// Create controllers.
 	fishController := controller.NewFishSurveyController(m)
-	countyController := controller.NewCountyController(enhancedCounties)
+	countyController := controller.NewCountyController(enhancedCounties, m)
 
 	// Setup router.
 	router := gin.Default()
-	// Pass both controllers to your view setup (update your SetupRoutes accordingly).
 	view.SetupRoutes(router, fishController, countyController)
 
 	log.Println("Server running on port 8080...")
 	router.Run(":8080")
 }
-

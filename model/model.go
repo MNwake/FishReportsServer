@@ -5,7 +5,9 @@ import (
 )
 
 // ✅ Data structures
+
 type Species struct {
+	ID             string `json:"id"`             // <-- New ID field
 	Code           string `json:"code"`
 	CommonName     string `json:"common_name"`
 	ScientificName string `json:"scientific_name"`
@@ -26,18 +28,17 @@ type LengthData struct {
 	Species       *Species    `json:"species"`
 	MinimumLength int         `json:"minimum_length"`
 	MaximumLength int         `json:"maximum_length"`
-	FishCount     []FishCount `json:"fishCount"` // 🔄 Fixed to accept an array of FishCount
+	FishCount     []FishCount `json:"fishCount"`
 }
 
-
 type Survey struct {
-	SurveyID           string                 `json:"surveyID"`
+	SurveyID           string                 `json:"surveyID"`  // This serves as the survey's unique id.
 	SurveyDate         string                 `json:"surveyDate"`
 	FishCatchSummaries []FishCatchSummary     `json:"fishCatchSummaries"`
-	Narrative          string                 `json:"narrative"`  // <-- New narrative field
+	Narrative          string                 `json:"narrative"`
 	Lengths            map[string]*LengthData `json:"lengths"`
-	SurveyType 		   string				  `json:"surveyType"`
-	SurveySubType	   string				  `json:"suveySubType"`
+	SurveyType         string                 `json:"surveyType"`
+	SurveySubType      string                 `json:"suveySubType"`
 }
 
 type FishCatchSummary struct {
@@ -61,10 +62,9 @@ type FishSurveyModel struct {
 	Mutex            sync.Mutex
 }
 
-
-
 // County struct represents the county data.
 type County struct {
+	ID          string   `json:"id"`           // <-- New ID field
 	CountyName  string   `json:"county_name"`
 	FIPSCode    string   `json:"fips_code"`
 	CountySeat  string   `json:"county_seat"`
@@ -74,5 +74,5 @@ type County struct {
 	Population  int      `json:"population"`
 	AreaSqMiles float64  `json:"area_sq_miles"`
 	MapImageURL string   `json:"map_image_url"`
-	Lakes		[]string `json:"lakes,omitempty"`
+	Lakes       []string `json:"lakes,omitempty"`
 }
