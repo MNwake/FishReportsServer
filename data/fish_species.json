@@ -50,7 +50,7 @@
         "scientific_name": "Coregonus hoyi",
         "game_fish": false,
         "species_group": "Salmonidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "BLS": {
@@ -122,7 +122,7 @@
         "scientific_name": "Ameiurus sp.",
         "game_fish": false,
         "species_group": "Ictaluridae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "SPO": {
@@ -329,7 +329,7 @@
         "scientific_name": "Gymnocephalus cernuus",
         "game_fish": false,
         "species_group": "Percidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "BKF": {
@@ -347,7 +347,7 @@
         "scientific_name": "Piaractus brachypomus",
         "game_fish": false,
         "species_group": "Characidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "BKB": {
@@ -419,7 +419,7 @@
         "scientific_name": "Oncorhynchus nerka",
         "game_fish": true,
         "species_group": "Salmonidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "WAS": {
@@ -428,7 +428,7 @@
         "scientific_name": "Sander vitreus X S. canadensis",
         "game_fish": true,
         "species_group": "Percidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "GOS": {
@@ -896,7 +896,7 @@
         "scientific_name": "Lepomis sp. X Lepomis sp.",
         "game_fish": true,
         "species_group": "Centrarchidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "RES": {
@@ -1022,7 +1022,7 @@
         "scientific_name": "Incompertus nevem",
         "game_fish": false,
         "species_group": "Unknown sp.",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "LES": {
@@ -1040,7 +1040,7 @@
         "scientific_name": "Incompertus duodeviginti",
         "game_fish": false,
         "species_group": "Unknown sp.",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "UK7": {
@@ -1049,7 +1049,7 @@
         "scientific_name": "Incompertus septem",
         "game_fish": false,
         "species_group": "Unknown sp.",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "UK6": {
@@ -1058,7 +1058,7 @@
         "scientific_name": "Incompertus six",
         "game_fish": false,
         "species_group": "Unknown sp.",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "ILA": {
@@ -1067,7 +1067,7 @@
         "scientific_name": "Lamprey Ammocoete",
         "game_fish": false,
         "species_group": "Petromyzontidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "UK5": {
@@ -1076,7 +1076,7 @@
         "scientific_name": "Incompertus quinque",
         "game_fish": false,
         "species_group": "Unknown sp.",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "UK4": {
@@ -1085,7 +1085,7 @@
         "scientific_name": "Incompertus quattuor",
         "game_fish": false,
         "species_group": "Unknown sp.",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "UK3": {
@@ -1094,7 +1094,7 @@
         "scientific_name": "Incompertus three",
         "game_fish": false,
         "species_group": "Unknown sp.",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "RDW": {
@@ -1112,7 +1112,7 @@
         "scientific_name": "Incompertus duos",
         "game_fish": false,
         "species_group": "Unknown sp.",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "GLD": {
@@ -1130,7 +1130,7 @@
         "scientific_name": "Incompertus unus",
         "game_fish": false,
         "species_group": "Unknown sp.",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "ALW": {
@@ -1139,7 +1139,7 @@
         "scientific_name": "Alosa pseudoharengus",
         "game_fish": false,
         "species_group": "Clupeidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "RDS": {
@@ -1238,7 +1238,7 @@
         "scientific_name": "Haud proprius proprius",
         "game_fish": false,
         "species_group": "Unknown sp.",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "RCS": {
@@ -1256,7 +1256,7 @@
         "scientific_name": "Esox lucius - variation",
         "game_fish": true,
         "species_group": "Esocidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "SIL": {
@@ -1274,7 +1274,7 @@
         "scientific_name": "Coregonus nipigon",
         "game_fish": false,
         "species_group": "Salmonidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "SUN": {
@@ -1283,7 +1283,7 @@
         "scientific_name": "Lepomis sp.",
         "game_fish": true,
         "species_group": "Centrarchidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "SIC": {
@@ -1400,7 +1400,7 @@
         "scientific_name": "Pomoxis sp. X Pomoxis sp.",
         "game_fish": true,
         "species_group": "Centrarchidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "BDD": {
@@ -1409,7 +1409,7 @@
         "scientific_name": "Etheostoma zonale",
         "game_fish": false,
         "species_group": "Percidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "SHI": {
@@ -1418,7 +1418,7 @@
         "scientific_name": "Notropis etc.",
         "game_fish": false,
         "species_group": "Cyprinidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "GIS": {
@@ -1526,7 +1526,7 @@
         "scientific_name": "Leucichthys sp.",
         "game_fish": false,
         "species_group": "Salmonidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "OTS": {
@@ -1535,7 +1535,7 @@
         "scientific_name": "Catostomus sp.",
         "game_fish": false,
         "species_group": "Catostomidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "STC": {
@@ -1643,7 +1643,7 @@
         "scientific_name": "Amia calva",
         "game_fish": false,
         "species_group": "Amiidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "PAH": {
@@ -1805,7 +1805,7 @@
         "scientific_name": "Coregonus artedi",
         "game_fish": false,
         "species_group": "Salmonidae",
-        "image_url": "https://static.pokemonpets.com/images/monsters-images-800-800/2129-Shiny-Magikarp.webp",
+        "image_url": "",
         "description": ""
     },
     "BND": {

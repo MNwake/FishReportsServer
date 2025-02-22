@@ -9,28 +9,33 @@ import (
 )
 
 func (c *FishSurveyController) GetAllSpecies() []map[string]string {
-	var speciesList []map[string]string
+    var speciesList []map[string]string
 
-	// Convert the species map to a slice.
-	for _, species := range c.Model.SpeciesMap {
-		speciesList = append(speciesList, map[string]string{
-			"id":             species.ID, // <-- Include the ID
-			"common_name":    species.CommonName,
-			"image_url":      species.ImageURL,
-			"description":    species.Description,
-			"game_fish":      strconv.FormatBool(species.GameFish),
-			"ScientificName": species.ScientificName,
-			"SpeciesGroup":   species.SpeciesGroup,
-		})
-	}
+    // Iterate through the species map.
+    for abbr, species := range c.Model.SpeciesMap {
+        // Only include species if survey data exists for it.
+        if !c.HasSurveyDataForSpecies(abbr) {
+            continue
+        }
+        speciesList = append(speciesList, map[string]string{
+            "id":             species.ID,
+            "common_name":    species.CommonName,
+            "image_url":      species.ImageURL,
+            "description":    species.Description,
+            "game_fish":      strconv.FormatBool(species.GameFish),
+            "ScientificName": species.ScientificName,
+            "SpeciesGroup":   species.SpeciesGroup,
+        })
+    }
 
-	// Sort by common name.
-	sort.Slice(speciesList, func(i, j int) bool {
-		return speciesList[i]["common_name"] < speciesList[j]["common_name"]
-	})
+    // Sort by common name.
+    sort.Slice(speciesList, func(i, j int) bool {
+        return speciesList[i]["common_name"] < speciesList[j]["common_name"]
+    })
 
-	return speciesList
+    return speciesList
 }
+
 
 // GetSpeciesStats aggregates statistics for a given species (by common name)
 // across all surveys and returns county stats with integer percentages.
@@ -189,4 +194,20 @@ func (c *FishSurveyController) GetSpeciesStatsByID(speciesID string) map[string]
     species := c.Model.SpeciesMap[speciesKey]
     // Now call the existing GetSpeciesStats using the species common name.
     return c.GetSpeciesStats(species.CommonName)
+}
+
+// HasSurveyDataForSpecies checks if any survey contains data for the given species abbreviation.
+func (c *FishSurveyController) HasSurveyDataForSpecies(speciesAbbr string) bool {
+    for _, fishDataList := range c.Model.FishDataByCounty {
+        for _, data := range fishDataList {
+            // Iterate through each survey in the county.
+            for _, survey := range data.Result.Surveys {
+                // If the species is found in the survey, return true.
+                if _, exists := survey.Lengths[speciesAbbr]; exists {
+                    return true
+                }
+            }
+        }
+    }
+    return false
 }
